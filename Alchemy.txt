@@ -1,0 +1,1636 @@
+1X0 (1)
+-----------------------------------------------------------------------------
+earth
+air
+water
+fire
+
+1X1 (2)
+-----------------------------------------------------------------------------
+earth + earth = land
+earth + air = dust
+earth + water = mud
+earth + fire = gunpowder
+air + air = sky
+air + water = mist
+air + fire = wind
+water + water = lake
+water + fire = steam
+fire + fire = energy
+
+1X2 (3)
+-----------------------------------------------------------------------------
+earth + land = continent
+earth + dust = soil
+earth + mud = soil
+earth + gunpowder = fertilizer
+earth + sky = horizon
+earth + mist = dew
+earth + wind = duststorm
+earth + lake = mud
+earth + steam = geyser
+earth + energy = gunpowder
+
+air + land = horizon
+air + dust = dust
+air + mud = soil
+air + gunpowder = 
+air + sky = ozone
+air + mist = cloud
+air + wind = wind
+air + lake = 
+air + steam = cloud
+air + energy = wind
+
+water + land = 
+water + dust = mud
+water + mud = mud
+water + gunpowder = 
+water + sky = 
+water + mist = 
+water + wind = mist
+water + lake = sea
+water + steam = 
+water + energy = steam
+
+fire + land = wildfire
+fire + dust = gunpowder
+fire + mud = soil
+fire + gunpowder = explosion
+fire + sky = smoke
+fire + mist = 
+fire + wind = wildfire
+fire + lake = lake
+fire + steam = 
+fire + energy = plasma
+
+2X2 (4)
+-----------------------------------------------------------------------------
+land + land = continent
+land + dust = 
+land + mud = 
+land + gunpowder = fertilizer
+land + sky = horizon
+land + mist = dew
+land + wind = duststorm
+land + lake = 
+land + steam = geyser
+land + energy = volcano
+
+dust + dust = lint
+dust + mud = clay
+dust + gunpowder = 
+dust + sky = allergy
+dust + mist = 
+dust + wind = duststorm
+dust + lake = mud
+dust + steam = 
+dust + energy = gunpowder
+
+mud + mud = swamp
+mud + gunpowder = 
+mud + sky = 
+mud + mist = 
+mud + wind = soil
+mud + lake = swamp
+mud + steam = 
+mud + energy = life
+
+gunpowder + gunpowder = bomb
+gunpowder + sky = 
+gunpowder + mist = 
+gunpowder + wind = 
+gunpowder + lake = swamp
+gunpowder + steam = 
+gunpowder + energy = explosion
+
+sky + sky = atmosphere
+sky + mist = cloud
+sky + wind = wind
+sky + lake = horizon
+sky + steam = cloud
+sky + energy = ozone
+
+mist + mist = fog
+mist + wind = 
+mist + lake = 
+mist + steam = 
+mist + energy = steam
+
+wind + wind = tornado
+wind + lake = 
+wind + steam = cloud
+wind + energy = tornado
+
+lake + lake = fjord
+lake + steam = mist
+lake + energy = river
+
+steam + steam = cloud
+steam + energy = 
+
+1X3 (5) - Truncated From Here
+-----------------------------------------------------------------------------
+earth + cloud = 
+earth + dew = 
+earth + dust = 
+earth + duststorm = duststorm
+earth + explosion = crater
+earth + fertilizer = soil
+earth + geyser = 
+earth + gunpowder = fertilizer
+earth + horizon = 
+earth + lake = 
+earth + mist = dew
+earth + mud = 
+earth + ozone = 
+earth + plasma = 
+earth + sea = beach
+earth + soil = 
+earth + smoke = 
+earth + steam = geyser
+earth + wind = duststorm
+
+air + cloud = 
+air + dew = 
+air + dust = allergy
+air + duststorm = 
+air + explosion = sound
+air + fertilizer = sand
+air + geyser = steam
+air + gunpowder = 
+air + horizon = sky
+air + lake = 
+air + mist = 
+air + mud = sand
+air + ozone = 
+air + plasma = ozone
+air + sea = horizon
+air + soil = sand
+air + smoke = 
+air + steam = cloud
+air + wind = wind
+
+water + cloud = 
+water + dew = 
+water + dust = 
+water + duststorm = duststorm
+water + explosion = crater
+water + fertilizer = soil
+water + geyser = 
+water + gunpowder = fertilizer
+water + horizon = 
+water + lake = sea
+water + mist = dew
+water + mud = 
+water + ozone = 
+water + plasma = hydrogen & Oxygen
+water + sea = ocean
+water + soil = mud
+water + smoke = 
+water + steam = 
+water + wind = 
+
+fire + cloud = 
+fire + dew = steam
+fire + dust = gunpowder
+fire + duststorm = 
+fire + explosion = 
+fire + fertilizer = bomb
+fire + geyser = 
+fire + gunpowder = explosion
+fire + horizon = 
+fire + lake = 
+fire + mist = 
+fire + mud = sand
+fire + ozone = 
+fire + plasma = 
+fire + sea = salt
+fire + soil = 
+fire + smoke = 
+fire + steam = 
+fire + wind = wildfire
+
+2X3 (6) 
+-----------------------------------------------------------------------------
+cloud + energy = storm cloud 
+dew + dust = mud
+dew + energy = steam
+dust + dust = lint
+dust + wind = duststorm
+dust + energy = gunpowder
+duststorm + land = duststorm
+duststorm + dust = duststorm
+duststorm + wind = duststorm
+explosion + land = crater
+explosion + gunpowder = explosion
+explosion + energy = supernova
+fertilizer + mud = soil
+fertilizer + wind = sand
+fertilizer + lake = swamp
+fertilizer + energy = bomb
+geyser + sky = steam
+geyser + energy = steam
+gunpowder + gunpowder = bomb
+gunpowder + energy = explosion
+horizon
+lake + dust = mud
+lake + lake = fjord
+lake + energy = river
+mist + sky = cloud
+mud + dust = clay
+mud + wind = sand
+mud + energy = life
+ozone
+plasma + sky = oxygen & ozone
+sea + land = island
+sea + sky = horizon
+sea + lake = delta
+sea + energy = life
+soil + wind = sand
+soil + lake = mud
+smoke + sky = smog
+steam + land = geyser
+steam + sky = cloud
+steam + wind = cloud
+steam + steam = cloud
+wind + land = duststorm
+wind + dust = duststorm
+wind + sky = wind
+wind + steam = cloud
+wind + energy = tornado
+
+/////////////////////////////////////////////////////////////////////////////
+
+	... ELEMENTS TO CONSTRUCT
+	
+/////////////////////////////////////////////////////////////////////////////
+
+Flora Types
+-----------------------------------------------------------------------------
+Tree
+Bonsai
+Flower
+Fruit
+Vegetable
+Herb
+Seed
+Root
+Branch
+Lichen
+Fungus
+Mold
+Weed
+Leaf
+
+
+Trees	
+-----------------------------------------------------------------------------
+oak = tree + barrel;
+elm = tree + freddie krueger;
+spruce = tree + needle;
+redwood = tree + giant;
+maple = tree + honey; tree + canada;
+jasmine = tree + flower; tree + japan;
+acacia = tree + thorn; tree + porcupine;
+boabab = tree + africa;
+palm = tree + island;
+cactus = tree + desert;
+ebony = tree + black;
+
+Fruit
+-----------------------------------------------------------------------------
+apple = fruit + newton; fruit + gravity;
+banana = fruit + monkey;
+cherry = fruit + washington; 
+coconut = fruit + island; fruit + palm tree;
+dragonfruit = fruit + dragon;
+fig = fruit + leaf;
+grapes = fruit + wine;
+kiwi 
+lemon = fruit + electrity; fruit + acid;
+mango
+orange = fruit + sun;
+peach
+strawberry = fruit + straw;
+watermelon = fruit + water; fruit + melon;
+
+Vegetable
+-----------------------------------------------------------------------------
+artichoke = vegetable + heart; vegetable + needle
+beans = vegetable + gas; vegetable + mexico
+beetroot = root + 
+chilli = vegetable + heat
+corn
+cucumber
+eggplant = vegetable + egg
+garlic = vegetable + vampire
+olive
+onion = vegetable + shrek
+pickle = vegetable + vinegar; cucumber + vinegar
+potato = vegetable + starch
+sweet potato = potato + sugar
+tomato = vegetable + red; fruit + red;
+turnip
+zucchini
+
+Herb
+-----------------------------------------------------------------------------
+basil
+coriander
+dill
+mint
+oreganum
+
+Flower
+-----------------------------------------------------------------------------
+daisy
+lavender
+lilly
+rose = flower + thorn;
+sunflower = flower + sun;
+tulip
+
+
+
+
+Fauna
+-----------------------------------------------------------------------------
+animal
+bird
+amphibian
+bug
+mammal
+reptile
+
+
+
+Bird
+-----------------------------------------------------------------------------
+blue jay
+canary = bird + mine;
+chicken = bird + farm;
+crow = bird + murderer;
+duck = bird + pond;
+eagle = bird + mountain;
+flamingo = bird + krill;
+hawk = bird + hunter;
+hummingbird = bird + flower;
+kiwi = bird + new zealand;
+kingfisher
+mockingbird = bird + comedian;
+ostrich = bird + big;
+owl = bird + night;
+parrot = bird + speech;
+peacock
+pigeon = bird + city; bird + rat;
+raven = bird + darkness;
+seagull = bird + beach; bird +sea;
+sparrow
+stork = bird + baby;
+swan
+swallow
+toucan = bird + paint;
+turkey = chicken + big;
+vulture = bird + corpse;
+woodpecker = bird + tree;
+
+
+
+Bug
+-----------------------------------------------------------------------------
+ant = bug + picnic; 
+aphid = bug + leaf;
+bee = bug + flower;
+beetle = bug + earth;
+black widow = spider + murderer;
+butterfly = caterpillar + time;
+caterpillar = worm + legs;
+centipede = caterpillar + legs;
+cochineal = beetle + cactus;
+cockroach = beetle + sewer;
+crab = beetle + sea; beetle + ocean;
+cricket
+dragonfly = fly + dragon;
+dung beetle = beetle + manure;
+dust mite = bug + dust;
+flea = fly + fruit;
+fly = bug + air;
+ladybug
+larva = bug + egg;
+leech = worm + blood;
+lobster
+locust
+millipede = centipede + legs;
+mosquito = fly + blood;
+moth = fly + flame;
+praying mantis
+scorpion
+shrimp
+slug = worm + earth;
+snail = slug + shell;
+spider
+silkworm
+tapeworm = worm + human;
+tarantula = spider + big;
+termite = ant + wood;
+tick = bug + blood;
+wasp = fly + needle;
+weavil = beetle + hyacinth; beetle + cereal;
+worm = bug + water;
+
+
+Amphibian & Reptile
+-----------------------------------------------------------------------------
+anaconda = snake + big;
+dartfrog = frog + poison; frog + amazon;
+cobra
+crocodile = lizard + shark;
+frog = 
+iguana = lizard + desert;
+komodo dragon = lizard + big;
+lizard = egg + earth;
+python = snake + coil;
+salamander = lizard + heat;
+snake = egg + swamp;
+toad
+tortoise = turtle + land;
+turtle = egg + beach;
+
+Fish & Aquatic
+-----------------------------------------------------------------------------
+anchovy = fish + pizza;
+angelfish = fish + angel;
+carp
+clownfish = fish + clown;
+flying fish = fish + air;
+eel = snake + sea; snake + ocean;
+electric eel = eel + electricity
+fugu = fish + poison;
+great white shark = shark + king;
+hammerhead = shark + hammer;
+herring = fish + norway;
+jellyfish = fish + jelly;
+koi = fish + pond;
+octopus = jellyfish + legs;
+piranha = fish + blood;
+sardine
+shark = fish + hunter;
+squid = octopus + ink;
+stingray = fish + needle;
+swordfish = shark + sword;
+tiger shark = shark + tiger;
+tropical fish = fish + tropics; fish + paint;
+tuna
+urchin = jellyfish + needle;
+
+
+Mammal
+-----------------------------------------------------------------------------
+anteater = mammal + ant;
+baboon
+badger = mammal + honey;
+bat = mammal + air;
+bear = mammal + forest;
+buffalo = cow + wild animal;
+camel = llama + desert; horse + desert; mammal + desert;
+cat = mouse + hunter; mammal + milk;
+cheetah = mammal + fast;
+chimpanzee
+cow = buffalo + domestic animal;
+deer
+dog = wolf + domestic animal;
+dolphin = mammal + sea; mammal + ocean;
+elephant = whale + land;
+giraffe
+goat = mammal + mountain;
+gorilla = mammal + mountain;
+hippo = mammal + mud;
+horse = domestic animal + fast;
+human = monkey + evolution;
+hyena = dog + laugh;
+kangaroo = mammal + bounce; mammal + frog;
+koala = bear + small;
+leopard = cat + spots;
+lion = cat = big; 
+llama = sheep + mountain;
+monkey = mammal + tree;
+moose = deer + big;
+mouse = mammal + mouse;
+panda = bear + bamboo;
+pig = domestic animal + warthog; 
+polar bear = bear + snow;
+porcupine = mammal + needle;
+panther = cat + tree;
+racoon
+rat = mouse + garbage; mouse + city;
+rhino = hippo + land;
+seal = dog + sea; dog + ocean;
+sheep = domesticated animal + fabric;
+skunk = mammal + smell;
+sloth = mammal + slow;
+tiger = cat + forest;
+warthog = pig + forest; pig + wild animal;
+whale = mammal + plankton; dolphin + big; elephant + sea; elephant + ocean;
+wolf = dog + wild animal;
+yak = cow + snow; 
+zebra = horse + paint;
+
+
+
+
+
+
+
+
+
+Car Makes
+-----------------------------------------------------------------------------
+aston martin = car + uk;
+audi = car + germany;
+bentley = car + uk;
+bmw = car + germany;
+bugatti = car + france;
+chevrolet = car + usa;
+citroen = car + france;
+ferrari = car + italy;
+ford = car + usa
+honda = car + japan;
+hummer = car + military;
+hyundai = car + south korea;
+jaguar = car + cat;
+lamborghini = car + italy
+mercedes benz = car + germany;
+nissan = car + japan;
+peugeot = car + france;
+porsche = car + germany;
+renault = car + france;
+rolls royce = car + uk;
+subaru = car + japan;
+seat = car + spain;
+skoda = car + czech republic;
+tata = car + india
+toyota = car + japan;
+volvo = car + sweden;
+
+Car Makes
+-----------------------------------------------------------------------------
+corvette
+mercedes gullwing = mercedes + seagull
+lamborghini diablo = lamborghini + devil
+ferrari f40
+ferrari testerosa = ferrari + magnum pi;
+mustang = ford + horse;
+lexus
+audi r8
+db9 vanguish = aston martin + 007;
+m3
+bugatti veyron ss
+nissan gtr
+
+
+Wonders
+-----------------------------------------------------------------------------
+amazon = rainforest + south america;
+aurora borealis = sky + norway;
+berlin wall = wall + germany;
+bermuda triangle = north america + triangle; ocean + triangle;
+big ben = tower + uk;
+christ the redeemer = brasil + statue;
+collosseum = stadium + gladiator; italy + monument;
+easter island = island + head;
+eiffel tower = france + tower; france + skyscraper;
+galapagos island = island + darwin;
+grand canyon = usa + crater;
+great barrier reef = australia + coral;
+great wall of china = wall + china;
+kilamanjaro = kenya + mountain;
+kremlin = castle + russia;
+marianas trench = crater + ocean;
+mount everest = mongolia + mountain;
+mount fuji = japan + mountain;
+niagra falls = canada + waterfall;
+parthenon = monument + greece;
+petra = jordan + monument; 
+pyramids of giza = egypt + monument;
+sphynx = egypt + statue;
+statue of liberty = usa + statue;
+stonehenge = uk + monument;
+taj mahal = india + monument; india + castle;
+teracota army = stone + army;
+uluru = australia + mountain;
+
+
+Countries
+-----------------------------------------------------------------------------
+afghanistan = country + 
+argentina = country + peron;
+australia = country + kangaroo;
+austria = country + 
+bahamas = country + pirate;
+brazil = country + rainforest;
+canada = country + ice hockey;
+china = country + dragon;
+colombia = country + cocaine;
+costa rica = country + jurassic park;
+cuba = country + cigar;
+czech republic = country + 
+denmark = country + 
+egypt = country + pharoah; country + pyramid;
+ethiopia = country + 
+fiji = country + 
+finland = country + fish;
+france = country + wine;
+germany = country + beer;
+ghana = country + 
+greece = country + olympics;
+haiti = country + 
+iceland = country + ice;
+india = country + chilli;
+indonesia = country + 
+israel = country + judaism;
+italy = country + pizza;
+ireland = country + leprachaun;
+jamaica = country + marijuana;
+japan = country + samuraii;
+kenya = country + 
+kuwait = country + oil;
+mexico = country + cactusl country + tequilla;
+monaco = country + 
+mongolia = country + 
+morocco = country + 
+namibia = country + diamond;
+nepal = country + 
+netherlands = country + cheese;
+new zealand = country + lord of the rings;
+nicaragua = country + 
+north korea = country + 
+norway = country + 
+pakistan = country + 
+papua new guinea = country + cannibal;
+paraguay = country + 
+peru = country + llama;
+poland = country + 
+portugal = country + 
+romania = country + vampire;
+russia = country + 
+saudi arabia = country +  
+south africa = country + gold;
+south korea = country + 
+spain = country + bull;
+sweden = country + 
+switzerland = country + chocolate;
+taiwan = country + microchip;
+thailand = country + rice;
+turkey = country + turkey;
+uae = country + 
+uk = country + queen;
+ukraine = country + prypriat
+uruguay = country + 
+usa = country + 
+venezuela = country + 
+vatican = country + 
+vietnam = country + 
+zimbabwe = country + 
+
+Cities
+-----------------------------------------------------------------------------
+alexandria = city + library;
+amsterdam = city + tulips; city + prostitution;
+athens = city + parthenon;
+babylon = city + tower;
+berlin = city + berlin wall;
+brussels = city + eu;
+cairo = city + egypt;
+casablanca
+cape town = city + shipwreck;
+chicago =  = city + wind;
+damascus
+delhi = city + taj mahal;
+detroit = city + ford; city + chevrolet; city + chrysler;
+hamburg = city + hamburger;
+hanoi
+helsinki
+hiroshima = city + atom bomb;
+hong kong
+istanbul = city + haga sofia;
+jerusalem = city + religion;
+kiev
+kingston = city + jamaica;
+las vegas = city + gambling;
+london  = city + uk; city + big ben;
+los angeles = city + angels;
+moscow = city + kremlin; city + russia;
+new york = city + apple; city + statue of liberty;
+paris = city + love; city + france;
+pompei = city + eruption;
+pomplona = city + bulls;
+rio de janeiro = city + tropics;
+rome = city + italy; city + empire; city + collosseum;
+san francisco = city + earthquake;
+shanghai = city + china;
+sydney = city + opera house;  = city + australia;
+stockholm = city + hostage;
+tokyo = city + japan;
+venice = city + gondola;
+washington = city + politics;
+
+Natural Events
+-----------------------------------------------------------------------------
+asteroid = stone + space;
+meteor = comet + sky;
+meteorite = comet + earth; comet + land;
+avalanche
+autumn = season + leaf;
+blizzard = snow + snow;
+cloud = steam + sky; 
+comet = asteroid + energy;
+crater = land + asteroid;
+day = sun + time;
+earthquake = earth + energy; land + energy;
+eruption = volcano + pressure; volcano + energy;
+flood = rain + rain;
+fog = mist + mist;
+geyser = steam + land;
+hail = cloud + ice;
+hurricane
+ice = water + cold;
+lava = fire + stone;
+lightning = cloud + energy;
+mist
+moon = stone + night; asteroid + big;
+night = moon + time;
+rain = cloud + water;
+rainbow = rain + sun;
+season
+spring = season + seed; season + bounce;
+steam = water + fire;
+storm = rain + energy; stormcloud + water;
+snow = rain + cold; 
+summer = season + heat; season + fruit;
+sun = sky + plasma;
+thunder = lightning + sound;
+tide = moon + sea; moon + ocean;
+tornado = wind + energy;
+tsunami = wave + energy; sea + earthquake; ocean + earthquake;
+volcano = lava + mountain;
+wave = wind + sea; wind + ocean;
+weather
+wildfire = fire + wind;
+wind = air + energy;
+winter = season + cold; 
+
+Concepts
+-----------------------------------------------------------------------------
+always
+big
+cold
+conduction
+container
+convection
+down
+energy
+fast
+few
+gas
+hot
+left
+liquid
+many
+never
+no
+radiation
+right
+slow
+small
+solid
+plasma
+time
+up
+yes
+
+Elements
+-----------------------------------------------------------------------------
+aluminium = element + can;
+copper = element + wire;
+chlorine = element + salt;
+calcium = element + bone;
+carbon = element + coal; element + diamond; element + ash;
+gold = element + treasure; alchemist + metal;
+helium = element + baloon;
+hydrogen = water + electricty; element + salt;
+iron = element + spinach;
+lead = element + battery;
+mercury = metal + liquid;
+neon = element + flouescent;
+nitrogen = air + electricty;
+oxygen = air + electricty; element + salt;
+plutonium = uranium + tool; element + atom bomb;
+potassium = element + banana;
+silicon = element + microchip;
+silver = element + moon; element + vampire; element + werewolf;
+sulphur = element + volcano;
+tin = element + can;
+tungsten = element + lightbulb;
+uranium = stone + radiation;
+curium = element + curie;
+einsteinium = element + einstein;
+germanium = element + germany;
+europium = element + europe;
+americium = element + america;
+francium = element + france;
+copernicium = element + copernicus;
+nobelium = element + nobel;
+gallium = element + galileo;
+
+
+Substances and Materials
+-----------------------------------------------------------------------------
+hcl = hydrogen + chloride;
+brass = copper + nickel;
+carbon monoxide = carbon + oxygen;
+carbon dioxide = carbon monoxide + oxygen; oxygen + animal; oxygen + human;
+steel = iron + carbon;
+diamond = carbon + pressure; coal + pressure;
+oil = fossil + time;
+bitumen = oil + tool;
+gasoline = bitumen + tool;
+plastic = bitumen + tool;
+cyanide = carbon + nitrogen;
+ozone = air + plasma; 
+glass = sand + fire;
+metal = stone + fire;
+rubber = tree + milk;
+silicon = sand + pressure;
+brick = clay + fire;
+concrete = cement + water;
+ceramic = silicon + clay;
+crystal = stone + glass;
+limestone = calcium + carbon; shell + stone;
+marble = limestone + pressure; limestone + heat;
+peat = swamp + wind; swamp + air; swamp + fire;
+wool = sheep + tool;
+cement = limestone + sand;
+wood = tree + tool;
+sugar = sugarcane + tool;
+glue
+paint = carmine + tool;
+paper = wood + pressure;
+alcohol = sugar + yeast;
+vinegar = alcohol + time;
+leather = skin + tool;
+salt = sea + fire;
+cotton = plant + cloud; plant + wool;
+
+
+Occupations
+-----------------------------------------------------------------------------
+accountant = money + book;
+acrobat = gymnast + circus;
+actor = human + tv;
+archeologist = scientist + rubble;
+architect = human + building;
+arsonist = criminal + fire;
+artist = human + art;
+assassin = murderer + money;
+astrologist = human + astrology;
+astronaut = pilot + space;
+astronomer = scientist + star;
+author = artist + book;
+baker = human + cake;
+bard = musician + castle;
+bartender = human + bar;
+beekeeper = farmer + bee;
+bishop
+biologist = scientist + biology;
+blacksmith = human + furnace;
+botanist = scientist + plant;
+boxer = sportsman + box;
+butcher = human + meat;
+captain
+cardiologist = doctor + heart;
+carpenter = human + furniture;
+ceo = human + business;
+chef = human + food;
+chemist = human + element;
+clown = human + circus;
+coach = old man + sports;
+comedian = actor + joke;
+cowboy = cow + human;
+criminal = crime + human;
+cryptozoologist = zoologist + loch ness;
+cyclist = sportsman + bicycle;
+dietician = doctor + food; doctor + diet;
+diver = human + scuba gear;
+doctor = human + medicine;
+driver = human + vehicle;
+drug dealer = drugs + money;
+economist = human + economy;
+electrician = human + electricity;
+engineer = scientist + mechanic;
+executioner = murderer + axe;
+farmer = human + farm;
+fireman = human + fire;
+fisherman = human + net;
+florist = human + bouquet;
+gardener = human + garden;
+geologist = human + rock;
+general = soldier + king;
+gerontologist = doctor + old man;
+guard 
+gymnast = sportsman + rubber;
+gynaecologist = doctor + woman;
+hero = knight + dragon;
+hobo = alcoholic + time;
+hunter = human + weapon;
+jester = comedian + castle;
+jockey = sportsman + horse;
+king = man + castle;
+knight = warrior + castle; 
+lawyer = law + human;
+life guard = human + beach;
+lobbyist = politician + businessman;
+lumberjack = human + chainsaw; human + axe;
+magician = human + magic;
+mathematician
+mechanic = human + engine;
+mercenary = soldier + money;
+miner = human + pickaxe;
+model = human + camera;
+murderer = criminal + weapon;
+musician = artist + music;
+ninja = warrior + shadow;
+nurse
+optometrist = doctor + eye;
+painter = artist + paint;
+paleontologist = scientist + dinosaur;
+pathologist = doctor + disease;
+pharmacist = human + pill;
+philospher = human + philosophy;
+photographer = artist + camera;
+physicist = human + physics; 
+pi = crime + policeman;
+pilot = captain + plane;
+pirate = sailor + treasure;
+plumber
+poet
+policeman = soldier + law;
+politician = human + politics;
+pope
+president = politician + king;
+priest = human + church;
+prince = boy + castle;
+princess = girl + castle;
+prisoner = criminal + policeman; criminal + time;
+programmer = human + computer;
+prostitute = sex + money;
+psychiatrist = psychologist + pill;
+psychologist = doctor + speech;
+queen = woman + castle;
+racecar driver = driver + sportsman;
+reporter = actor + author;
+runner = sportsman + road;
+sailor = sea + human; ocean + human;
+salesperson = product + money;
+samurai = knight + katana;
+secretary = human + typewriter;
+serial killer = murderer + corpse;
+scientist = human + science;
+sculptor = artist + stone;
+shephard = human + domesticated animal;
+singer = musician + speech;
+socialite = human + money;
+sociologist = scientist + human;
+soldier = warrior + firearm;
+sportsman = human + sports;
+sprinter = runner + energy;
+spy = politician + soldier;
+student = human + school;
+superhero = hero + energy;
+surgeon = doctor + scalpel;
+swimmer = human + pool;
+taylor = human + clothing;
+teacher = human + student;
+thief = human + safe;
+tour guide = human + monument;
+undertaker = human + corpse;
+veteranarian = doctor + animal;
+supervillain = villain + energy;
+weightlifter = sportsman + lead;
+waiter = restaurant + human;
+warrior = hunter + human;
+wrestler = sportsman + costume;
+zoologist = scientist + animal;
+
+
+Planets
+-----------------------------------------------------------------------------
+*mercury = planet + mercury;
+venus = planet + woman;
+*earth = continent + ocean;
+mars = planet + rust; 
+jupiter = planet + big;
+saturn = planet + ring;
+uranus = saturn + neptune;
+neptune = planet + poseidon;
+pluto = planet + small;
+
+
+Movies & TV
+-----------------------------------------------------------------------------
+alien = 
+abyss = movie + marianas trench;
+american horror story = usa + horror;
+armageddon = movie + asteroid;
+batman = bat + superhero;
+big bang theory = comedy + scientist;
+blade = movie + vampire;
+bladerunner = pi + android;
+breaking bad = scientist + drugs;
+*casablanca = movie + casablanca; movie + morocco;
+dr. strangelove = comedy + atom bomb;
+e.t = alien + child; alien + bicycle; alien + phone;
+forrest gump = movie + chocolate;
+friends = friend + friend;
+game of thrones = game + crown;
+ghostbusters = hunter + ghost;
+gladiator = warrior + collosseum;
+godfather = god + father;
+godzilla = lizard + radiation;
+gone with the wind = movie + wind;
+harry potter = magic + school;
+indiana jones = archeologist + treasure;
+it = horror + clown;
+jaws = shark + horror;
+king kong = gorilla + tower;
+knight rider = corvette + tv;
+law and order = tv + crime;
+lion king = lion + king;
+lord of the rings = ring + volcano;
+magnum pi = pi + ferrari testerosa;
+nightmare on elm street = horror + fireman;
+platoon = movie + army;
+prison break
+psycho = psychotic + horror;
+rocky = movie + boxer; rock + boxer;
+saving private ryan = war + movie;
+silence of the lambs = cannibal + horror;
+singing in the rain = music + rain;
+southpark = cartoon + adult;
+spiderman = spider + superhero;
+star trek = picard + movie; picard + tv; enterprise + movie; enterprise + tv;
+star wars = jedi + sith; 
+superman = man + superhero;
+terminator = robot + assassin; android + assassin;
+titanic = steamship + iceberg;
+the human centipede = human + centipede;
+the wizard of oz = wizard + tornado; scarecrow + robot; 
+toy story = toy + movie;
+waterworld = ocean + ocean;
+x-files = fbi + alien;
+x-men
+
+Games
+-----------------------------------------------------------------------------
+doom = hell + firearm;
+simcity = game + city;
+the sims = game + town;
+need for speed = game + supercar;
+resident evil = game + zombie;
+supermario bros = game + plumber;
+
+Books
+-----------------------------------------------------------------------------
+alice in wonderland
+count of monte christo
+dracula = vampire + king;
+hamlet = prince + skull;
+junglebook = jungle + book;
+moby dick 
+romeo and juliet
+dracula
+frankenstein
+
+
+Sports
+-----------------------------------------------------------------------------
+archery = sport + bow;
+baseball = sport + diamond;
+basketball = basket + ball;
+boxing =  = sport + box;
+chess = sport + board;
+cricket = sport + bug;
+fencing = sport + sword;
+formula 1 = sport + car;
+football
+gymnastics
+hockey = sport + stick;
+ice hockey = hockey + ice;
+javelin
+marathon = sport + road;
+polo = sport + horse;
+poker = sport + card;
+rugby
+soccer = ball + leg;
+surfing = sport + wave;
+swimming = sport + pool;
+tennis
+volleyball = sport + beach;
+weightlifting = sport + lead;
+wrestling = sport + costume;
+
+Astrology
+-----------------------------------------------------------------------------
+aquarius = star + water;
+aries
+pisces = star + fish;
+taurus = star + bull;
+libra = star + scale;
+capricorn = star + goat;
+cancer = star + crab;
+virgo = star + virgin;
+gemini = star + twins;
+scorpio = star + scorpion;
+sagittarius = star + hunter;
+
+
+Company
+-----------------------------------------------------------------------------
+*apple = business + apple;
+microsoft = business + windows;
+intel = business + microchip;
+blizzard = business + game;
+samsung = business + phone;
+fedex
+boeing = business + plane;
+disney = business + magic;
+rolex = business + watch;
+nike = business + sport;
+adidas = business + sport;
+reebok = business + sport;
+gucci = business + fashion;
+prada = business + fashion;
+tabasco = business + hot sauce;
+sony = business + phone;
+nestle = business + food;
+ikea = business + furniture;
+general electric
+gibson = business + music;
+marshall = business + music;
+smirnoff = business + vodka;
+johnny walker = business + scotch;
+budweiser = business + beer;
+heineken = business + beer;
+dom perignon = business + champagne;
+smith & wesson = business + gun;
+colt = business + gun;
+tiffanies = business + jewelry;
+shell = business + oil;
+bp = business + oil;
+exxon mobil = business + oil;
+mcdonalds = business + burger;
+kfc = business + chicken;
+subway = business + sandwichl
+google = business + internet;
+facebook
+twitter = computer + bird;
+amway = business + pyramid;
+amazon = computer + shop;
+axe = business + deoderant;
+universal studios = business + movies;
+marlboro = business + cigarette;
+playboy = business + sex;
+harley davidson = business + motorcycle;
+zippo = business + lighter;
+  
+
+
+People
+-----------------------------------------------------------------------------
+alexander
+archimedes = scientist + container
+armstrong = astronaut + moon
+arthur
+asimov = author + robot
+babbage = mathematician + computer;
+beethoven
+bell = scientist + telephone
+caesar
+castro = president + cuba
+charlie chaplin
+churchill
+cleopatra = queen + egypt;
+columbus = sailor + planet;
+copernicus
+curie = scientist + x-ray
+darwin = scientist + evolution
+descartes = mathematician + philosopher
+edison = scientist + lightbulb
+einstein = scientist + light;  = scientist + energy;
+elizabeth II = queen + uk
+elvis
+flemming = scientist + penicillin
+galileo
+gandhi
+gates = ceo + microsoft
+gauss
+hawking = scientist + black hole;
+hercules
+holmes
+hughes = ceo + plane
+jack sparrow
+jobs = ceo + apple
+lincoln
+mandela
+marylin monroe
+mother theresa
+mozart
+napoleon = general + france; hero + france;
+newton = scientist + apple
+nobel = scientist + dynamite;
+kepler
+oppenheimer = scientist + atom bomb
+poe = poet + horror;
+robin hood = thief + hero; thief + forest;
+shakespeare
+socrates = philospher + greece;
+spartacus = gladiator + hero;
+stalin
+tesla = scientist + electricity
+von neumann = scientist + computer
+*washington
+zuckerberg = ceo + facebook
+
+
+
+
+Tool
+-----------------------------------------------------------------------------
+3d printer
+abacus
+airconditioner
+alarm clock
+anchor
+armour
+arrow
+axe
+atom bomb
+bag
+ball
+battery
+binoculars = telescope + telescope; glasses + energy;
+blade
+blender
+board = plank + plank
+boiler = steam + metal
+bomb
+bottle
+bow = weapon + string
+bowl
+box = board + board
+broom
+brush
+button
+calculator = abacus + transistor
+camoflauge
+can
+candle = wax + fire
+cannon
+catapault
+cellphone = phone + air; 
+chain = rope + metal;
+chainsaw = chain + saw; saw + energy; saw + electricity; saw + combustion engine
+clock = gear + sundial
+cloth
+combustion engine = steam engine + gasoline
+camera = lens + picture
+coil
+compass
+computer
+crayon
+credit card
+cup
+dial
+drill
+duct tape
+fan
+fibre optics
+file = sandpaper + metal;
+fireworks = gunpowder + paper;
+fishing rod = tool + fish;
+fork
+forge
+fridge
+gear
+glasses = lens + lens
+glue
+gun = tool + bullet
+elastic = rubber + tape
+hammer = tool + nail
+heater = heat + tool
+helmet = head + armour
+holodeck
+hourglass = sand + glass
+hydrogen bomb = atom bomb + energy; atom bomb + hydrogen;
+internet = network + network; network + planet;
+jack
+jet engine
+katana
+kevlar vest = armour + gun; armour + bullet;
+keyboard = button + board
+knife = tool + blade
+laptop = computer + small
+laser = light + light
+lens = tool + glass
+lever
+lightbulb
+lighter = tool + flint
+machine gun = gun + energy
+magnet
+match = tool + fire
+microchip = transistor + transistor
+microphone = tool + speech
+microscope = lens + bacteria
+microwave = food + radiation
+mouse = mouse + computer
+nail = needle + big
+needle
+net = rope + rope;
+network = computer + computer;
+paper = wood + pressure;
+paint
+pen = ink + pencil
+pencil = coal + wood
+phone
+pipe
+plank = wood + saw;
+pliers
+pot = bowl + heat
+printer = computer + paper;
+prism
+pulley
+pump
+radio = transistor + sound;
+radar
+remote = button + radio;
+rocket
+rocket launcher
+rope
+ruler
+sandpaper = sand + paper
+satellite
+saw
+scale = tool + weight
+scalpel = doctor + knife; doctor + blade;
+scissors = blade + blade; knife + knife;
+screen = glass + picture
+screw
+screwdriver = tool + screw
+shield = wall + armour;
+shiruken
+shovel
+soap = ash + fat;
+speaker = tool + sound;
+sponge
+spoon
+spring = coil + force
+steam engine
+stove = heater + food
+string
+stun gun = gun + electricity
+sundial = sun + hourglass
+sword = blade + weapon
+syringe = needle + glass; needle + plastic; needle + bottle;
+tape
+telescope = lens + planet
+toolbox = tool + box
+transistor = silicon + tool
+tweazers
+tyre = wheel + rubber
+turbine
+tv
+umbrella = rain + cloth
+vacuum cleaner = broom + electricity
+vacuum tube = 
+video camera = camera + tv
+watch = clock + small
+wheel = tool + wood
+wifi
+window = glass + wall
+wire
+wrench = tool + bolt
+
+
+House & Furniture
+-----------------------------------------------------------------------------
+basement = room + down; room + boiler; 
+bed
+bedroom = room + bed;
+carpet = cloth + floor;
+chair = board + leg;
+closet = room + clothes;
+curtain = cloth + window;
+dining room
+door
+floor = room + ground;
+garden
+greenhouse garden + house;
+hallway
+jacuzzi = pool + heat;
+kitchen = room + food;
+lamp = light + leg; light + cloth;
+lounge = room + sofa;
+pillow = cloth + feather;
+pool = water + house
+roof = house + up;
+room = wall + wall;
+sauna = room + heat;
+sink = container + hole;
+sofa = pillow + chair;
+steam room = room + steam; sauna + water;
+study = room + book; room + computer;
+table = chair + big; 
+toilet = room + tub; room + shower;
+tap
+tub
+washing machine
+
+
+
+
+
+Vehicles
+-----------------------------------------------------------------------------
+bicycle
+boat
+bus
+canoe
+car
+carrier
+cart
+catemaran
+chariot
+drone
+electric car
+elevator
+escalator
+ferry
+fighter jet
+fleet
+gondola
+helicopter
+hybrid car
+iceskates
+jet
+jetpack
+jetski
+kayak
+locomotive
+moped
+motorboat
+motorcycle
+plane
+pogostick
+raft
+rickshaw
+rollerskates
+rowboat
+sailboat
+sampan
+ship
+skateboard
+skis
+snowboard
+space shuttle
+starship
+steam ship
+supercar
+surfboard
+tank
+tanker
+teleporter
+tractor
+train
+tricycle
+trolley
+truck
+wagon
+wheelburrow
+ufo
+unicycle
+yacht
+zepplin
+
+
+
+
+Buildings
+-----------------------------------------------------------------------------
+airport
+apartment
+army base
+bakery
+bank
+bridge
+bunker
+butchery
+carnival
+castle
+church
+circus
+city
+country
+dam
+death star
+dungeon
+factory
+fort
+fountain
+hangar
+hideout
+hospital
+house
+laboratory
+labyrinth
+lighthouse
+mall
+maze
+mine
+monument
+mosque
+motel
+neighbourhood
+observatory
+office
+park
+path
+playground
+power plant
+prison
+pyramid
+railway
+region
+reservoir
+railroad
+road
+safe
+school
+shelter
+shop
+silo
+skyscraper
+space station
+stadium
+street
+temple
+tent
+them park
+tower
+town
+treehouse
+tunnel
+university
+white house
+zoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+	... INTERMEDIATE CHAINS
+	
+/////////////////////////////////////////////////////////////////////////////
+plasma + plasma = star
+star + time = supernova
+supernova + time = blackhole
+river + mountain = waterfall
+gunpowder + metal = bullet
+bullet + metal = gun
+mountain + mountain = mountain range
+mountain + never = valley
+sand + mountain = dune
+sand + sand = desert
+steam + metal = boiler
+
+
+
+
+
+
+
+
+
+
+
+

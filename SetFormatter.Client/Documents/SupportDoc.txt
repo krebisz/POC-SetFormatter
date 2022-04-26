@@ -1,0 +1,1085 @@
+﻿
+===============================================
+Combinations
+===============================================
+
+pigs + wings = improbability
+flame + poo = prank
+doll + spring = jack in the box
+metal + heavy = lead
+hockey + ice = ice hockey
+small + man = dwarf
+pool + heat = jacuzzi
+red + blue = purple
+red + green = brown
+red + yellow = orange
+blue + green = turquoise
+blue + yellow = green
+yes + no = indecision
+iron + carbon = steel
+wrong + right = paradox
+on + off = paradox
+king + snake = cobra
+paint + paper = painting
+christmas + machinegun/skyscraper = die hard
+christmas + robbers = home alone
+time + back/forward/travel = timetravel
+water + church/priest = holy water
+dozen + baker = 13
+spots + dog = dalmation
+sewer + mouse = rat
+bird + city/statue = pigeon
+bird + rainbow = peacock
+man + bean = mr.bean
+bread/cake + hole = donut
+queen/mercury + music = freddie mercury
+law + order = law & order
+dinosaur + movie = jurassic park
+combustion engine + saw = chainsaw
+propeller + cap = dork
+green + light = go
+skirt + scotland = kilt
+kilt + man = scot
+scot + hero = william wallace
+black hole + scientist = stephen hawking
+light + scientist = albert einstein
+gravity + scientist = isaac newton
+computer + scientist = von neumann
+order + justice = law
+electricity + alternator = acdc
+metal + alchemist/treasure/jewelry = gold
+metal + wire = copper
+metal + magnet = iron
+metal + radiation = uranium
+uranium + tool = plutonium
+metal + air = aluminium
+metal + weight/heavy/battery = lead
+metal + liquid = mercury
+metal + moon/vampire/werewolf = silver
+metal + banana = potassium
+metal + salt = sodium
+metal + can = tin
+metal/aluminium + tough = titanium
+metal + lightbulb = tungsten
+metal + coing = nickel
+metal + pan = zinc
+metal + catalyst = platinum
+gas + salt = chlorine
+gas + air = nitrogen/oxygen
+gas + neon light = neon
+metal + luminescense/dials = radium
+metal + marie curie = curium
+metal + america = americium
+metal + europe = europium
+metal + california = californium
+metal + france = francium
+metal + germany = germanium
+music + corn = korn
+music + heaven = nirvana
+music + prism = pink floyd
+music + airship = led zeplin
+guns + roses = guns n roses
+king + pop = michael jackson
+king + rock = elvis
+beatle + beatle/music = beatles
+king + egypt = pharoah
+king + middle east = sultan
+king + far east = emperor
+king + democracy = president
+king + india = maharajah
+king + news/tv = larry king
+king + snake = cobra
+music + tongue = kiss
+eye + tower/skyscraper = mordor
+foil + hero = zorro
+clown + villain/batman = joker
+music + sunglasses = ray charles
+knife + knife = scissors
+body + gas = fart
+flower + thorn = rose
+alarm + red = red alert
+guitar + keyboard/piano = keytar
+dog + heat = hotdog
+spice + woman = spice girls
+music + chillie = RHCP
+fish + paper = threat
+you + me = us
+room + underground = basement
+frog + star wars = jabba the hut
+spy + hero = james bond
+small + brick = lego
+noise + human = stress
+stress + time = depression/anxiety
+garden + statue/dwarf = garden gnome
+hunter + rhino/elephant = ivory
+meat + sun = jerkey
+crab + star = cancer
+scorpion + star = scorpio
+hunter + star = sagittarius
+fish + star = pisces
+water + star = aquarius
+bull + star = taurus
+scale + star = libra
+girl + star = virgo
+twins + star = gemini
+goat + star = capricorn
+air + star = aries
+car + alcoholic = corpse
+time + machine/car = back to the future
+fox + dance = foxtrot
+time + bones = dust
+time + rhythm = frequency
+time + object = antique
+aroma + poo = stink
+time + cake = birthday cake
+time + result = average
+time + corpse = bones
+walk + speed = run
+spin + sphere = revolution
+music + stone = rolling stones
+music + rock = rock n roll
+music + metal = heavy metal
+music + clap = pop
+music + church = gospel
+music + blue = blues
+music + noise = jazz
+music + score/old = classical
+music + weed/jamaica = reggae
+music + gangster = rap
+music + computer = edm
+eiffel tower + city = paris
+big ben + city = london
+brandenburg gate + city = berlin
+opera house + city = sydney
+pyramid + city = cairo
+statue of liberty + city = new york
+parthenon + city = athens
+kremlin + city = moscow
+radiation + city = pripyiat
+mt. fuji/godzilla + city = tokyo
+religion + good = god
+religion + evil = devil
+cat + savannah = lion
+cat + mountain = cougar
+cat + jungle = tiger
+cat + snow/tundra = siberian tiger
+cat + speed = cheetah
+lion + tiger = liger
+comedian + castle = jester
+comedian + tv = sitcom
+comedian/serial killer + paint = clown
+killer + corpse = serial killer
+stethescope + safe = thief
+comedian + silence = mime
+clown + tent = circus
+food + animal/human = poo
+fart/weapon/gun + flame = flamethrower
+ice + co2 = dry ice
+ice + cube = ice t
+drugs + speed = methamphetamine
+drugs + love = ecstasy
+drugs + happy = heroin
+drugs + paradox = lsd
+drugs + confused = weed
+drugs + fight = cocaine
+life + death = cycle
+door + door = the doors
+banana + country = banana republic
+king/president + banana republic = dictator
+car + electricity = tesla
+car + horse = mustang
+car + car = traffic
+supercar + bull = lamborghini
+supercar + horse = ferrari
+car + mr.bean = mini cooper
+car +  beatle = vw bug
+car + crowd = volkswagen
+car + propeller = bmw
+work + work = dull-boy jack
+horror + hockeymask = friday 13th
+horror + dream = nightmare on elm street
+horror + clown = it
+horror + hotel = psycho
+horror + demon/priest = exorcist
+horror + alien = aliens
+horror + antarctic = the thing
+action + robot = terminator
+roadhouse + skates = 50s
+lsd + peace = 60s
+disco + afro = 70s
+cocaine + shoulder pads = 80s
+wine + distillery = brandy
+beer + distellery = whiskey
+colony + criminals = australia
+wrong + wrong = not right
+loop + fruit/cereal = fruit loops
+chocolate + mars = mars bar
+sheep + mountain = goat
+vegetable + vinegar = pickles
+woman + bug/bettle = ladybug
+hippo + horn = rhino
+tree + barrel = oak
+tree + needle = spruce
+tree + desert = cactus
+tree + coconut = palm
+tree + long/tall = redwood
+tree + japan = bonsai
+tree + flower = jasmine
+bar + western = saloon
+bar + human = bartender
+bar + tv = cheers
+bar + sport = pool/darts
+bar + food = peanuts/pretzels
+bar + singer = karaoke
+bar + music = club
+bar + chair = barstool
+water + gun = watergun
+doctor + buttocks = proctologist
+doctor + old man = gerontologist
+doctor + woman = gynaecologist
+doctor + cancer = oncologist
+doctor + brain = neurologist
+doctor + feelings = psychologist
+psychologist + pill = psychiatrist
+doctor + scalpel = surgeon
+sentence + sentence = paragraph
+paragraph + paragraph = chapter
+chapter + chapter = book
+light + arctic/antarctic = aurora
+city + gambling = las vegas
+sandpaper + surface = friction
+imagination + communication = story
+story + fish/pinocchio/tall/long = lie
+fish + waterfall = salmon
+fish + marianas trench = lanternfish
+fish + mailbox = threat
+fish + gold = goldfish
+fish + sword = swordfish
+fish + bear = trout
+fish + algae = whale
+fish + clown = clownfish
+fish + japan = koi
+fish + norway = herring
+crowd + violence = mob
+mob + crime = mafia
+mafia + leader = godfather/gangster
+music + palindrome = abba
+top + secret = classified
+star wars + hole/pit/mouth = sarlak pit
+star wars + pirate = solo
+star wars + princess = leia
+star wars + politician = lando
+star wars + dictator = palpatine
+star wars + moon = deathstar
+star wars + carpet = chewbacca
+star wars + teddy bear = ewok
+star wars + teacher = obi wan
+star wars + hero = luke
+star wars + warrior = jedi
+star wars + crowd = stormtrooper
+star wars + ship = falcon
+star wars + master/old = yoda
+black + spider = black widow
+distance + distance = area
+area + distance = volume
+bubble + plastic = bubble wrap
+luck + horse = horseshoe
+luck + black cat = bad luck
+luck + ireland = four leaf clover
+luck + rabbit = rabbits foot
+trumpet + music = jazz
+shop + money = goods
+goods + human = customer
+criminal/killer + glove = oj
+
+fire + fire = inferno
+fire + earth = ash
+fire + water = steam
+fire + air = energy
+earth + earth = mountain
+earth + air = dust
+earth + water = mud
+water + water = lake
+water + air = ---
+air + air = sky
+
+
+steam + sky = cloud
+cloud + energy = lightning
+cloud + water = rain
+rain + rain = flood
+rain + energy = storm
+storm + wind = hurricane
+rain/storm + cold = hail
+
+
+ash/dust + water = clay
+
+
+mountain + energy = volcano
+volcano + time = lava
+lava + water = obsidian
+lava + air = stone
+stone + wind = sand
+sand + fire = glass
+stone + fire = metal
+
+volcano + sea = island
+wheel + wind = windmill
+ship + ship = fleet
+tower + clock = big ben
+chess + castle = rook
+chess + leader = king
+water + mountain = waterfall
+spices/fruit + fire = chilli
+fruit + vine = grapes
+fruit + palm = coconut
+time + building = ruins
+superhero + spider = spiderman
+superhero + vampire = blade
+hero + museum = indiana jones
+chicken + egg = dilemna
+chicken + road = joke
+joke + human = laugh
+joke + work = comedian
+weapon + electricity = tazer
+weapon + bullet = handgun
+handgun + bullet/energy = machine gun
+weapon + beast = claw/teeth
+weapon + comedian = banana
+weapon + blade = sword
+tool + blade = knife
+button + tv = remote
+company + fruit = apple
+comapny + windows = microsoft
+company + company = economy
+company + economy = stock exchange
+tequila + country = mexico
+gold + country = south africa
+kangaroo/koala/continent + country = australia
+country + democracy = greece
+country + statue of liberty/macdonald/coca cola = usa
+viking/herring + country = norway
+beer + country = germany
+beatles/big ben + country = uk
+whiskey/kilt/nessie + country = scotland
+four lead clover/leprachaun + country = ireland
+llama + country = peru
+eiffel tower + country = france
+leaning tower of pisa/pizza + country = italy
+vodka + country = russia
+isaac asimov + country = czechoslovakia
+windmill + country = netherlands
+bulls + city = pomplona
+pomplona + country = spain
+pyramid/mummy/sphinx + country = egypt
+cigar/castro + country = cuba
+great wall/dragon + country = china
+taj mahal/kamasutra/curry + country = india
+koi/samurai/mt. fuji + country = japan
+pirate + country = somalia
+rock + religion = gibraltar
+gibraltar + city = jerusalem
+jerusalem/judaism + country = israel
+ice hockey/maple tree/maple syrup + country = canada
+sauna + country = sweden
+cannibal + country = papua new guinea
+dali lama + country = tibet
+oil + country = kuwait/saudi arabia
+borat + country = kazakhstan
+country + gorilla = congo
+cocaine + country = colombia
+gymnastics + country = romania
+reggae/weed + country = jamaica
+island + country = bahamas
+jamaica + bahamas = carribean
+carribean + pirate = pirates of the carribean
+earthquake/angel + city los angeles
+volcano + city/italy = pompei
+city + spring = fort lauderdale
+tower + old/time = tower of babel
+tower of babel + city = babylon
+city + shipwreck/south africa = cape town
+bug + air = fly
+bug + earth = beetle
+fly + fire = firefly
+fly + dragon = dragonfly
+fruit + fly = fruit fly
+fly + dog = flea
+beetle + blood = tick
+beetle + poo = dung beetle
+beetle + cereal = weevil
+bug + dust = dust mite
+fly + blood = mosquito
+worm + blood = leech
+worm + shell = snail
+worm + earth = earthworm
+worm + legs = centipede/millipede
+scorpion + sea = lobster
+paper/cardboard + king/queen = cards
+game + killer = cluedo
+game + drawing/picture = pictionary
+game + property = monopoly
+bar + game = darts/pool
+game + tiles = dominoes
+lens + lens = glasses
+lens + star = telescope
+lens + bacteria = microscope
+lens + sun = fire
+telescope + telescope = binoculars
+spice + root = ginger
+vegetable + starch = potato
+vegetable + rabbit = carrot
+cry + vegetable = onion
+vampire + vegetable = garlic
+fruit + vegetable = tomato
+vegetable +popeye/iron = spinach
+potato + sugar = sweet potato
+vegetable + fire = horseradish
+root/potato + red = beets
+vegetable + flatulence = cabbage
+vegetable + heart = artichoke
+seed + fire = pepper
+corn + fire = popcorn
+pyramid + writing = heiroglyphics
+blind + writing = braille
+campfire + writing = smoke signals
+writing + movement = sign language
+writing + computer = typing
+writing + secret = code
+poor + rich = inequality
+style + clothing = fashion
+style + fashion = trend
+trend + time = cliche/outdated
+picture + picture = reel
+picture/canvas/paper + paint = painting
+plank + iron = ironing board
+snow + plank = snowboard/skiis
+wheel + plank = skateboard
+wave + plank = surrboard
+plank + wooden ship = pirate ship
+plank + plank = board
+board + cloth = bed
+computer + penguin = linux
+chicken + hunter = fox
+worker + economy = economist
+worker + worker = company/factory
+bug + worker = bee/ant
+computer + worker = programmer
+worker + leader = ceo
+food + worker = chef
+bar/alcohol + worker = bartender
+sick + worker = nurse
+book + worker = author
+child + worker = nanny
+school + worker = teacher
+shop + worker = merchant
+soldier + sea = marine
+hair + worker = hairdresser
+gold + worker = prospector
+sculpture + worker = sculptor
+dance + worker = ballerina
+sport + worker = athelete
+worker + land/livestock = farmer
+worker + religion = priest
+sport + scotland = golf
+sport + sport/world = olympics
+sport + sword = fencing
+bow/arrow + sport = archery
+sport + water = swimming
+metal ball + sport = shotput
+metal ball + gun/gunpowder = cannon
+sport + wave = surfing
+sport + basket = basketball
+dog + hot dog = dachshund
+dog + spots/fire brigade = dalmation
+big + dog = great dane
+dog + small = chihuahua
+uk + dog = bulldog
+dog + france = french poodle
+dog + ice = husky
+husky + board = sled
+energy + voice = megaphone
+donkey + politics = democrats
+elephant + politics = republicans
+democrats + republicans = congress
+cloth + rain = umbrella
+clothing + rain = raincoat
+tree + saw = log
+log + saw = plank
+log + tool = wheel
+secondx2 = minute
+minutex2 = hour
+hourx2 = day
+dayx2 = week
+weekx2 = month
+monthx2 = season
+season + fruit = summer
+season + snow/cold = winter
+season + leaf = autumn
+season + seed/sapling = spring
+spring/autumn/winter/summer x2 = year
+yearx2 = decade
+decadex2 = century
+centuryx2 = millenium
+carrot + stick = incentive
+energy + explosion/bomb = atomic bomb
+atomic bomb + hydrogen = fusion bomb
+energy + hydrogen = star
+star + earth = sun
+flag + white = surrender
+unicorn + country = scotland
+communication + voice = language
+communication + wall/book = writing
+robot/cyborg + police = robocop
+worker + law = police
+worker + order = police
+magnet + arctic/direction = compass
+movie + west = western
+wire/string/rope + round = coil
+number + round = estimate
+coil + electricity = tesla coil
+coil + coil = spring
+spring + energy = potential/kinetic energy
+plank + fulcrum = scale
+wheel + rope = pulley
+save + opposite = spend
+key + string = piano
+object + child = toy
+plastic + water = bottle
+plastic + fire = pollution
+forest + tropics = rainforest
+rainforest + continent = amazon
+object + love = gift
+sport + box = boxing
+sport + bike = cycling
+alcahol + rice/japan = saki
+engine + wind = turbine
+brick + fire = fireplace
+fireplace + energy = furnace
+war + time = suffering
+sport + costume = wrestling
+nail + coil = screw
+screw + nut = bolt
+poo + appliance = toilet
+toilet/shower/bath + room = bathroom
+car + room = garage
+room + book = study
+room + food = kitchen
+bed + room = bedroom
+couch/tv + room = living room
+clothing + japan = kimono
+mexico + hat = sombrero
+shoes + wood = clogs
+eskimo + clothes = parka
+work + glasses = goggles
+glasses + sun = sunglasses
+snow/skiis/snowboard = ski glasses
+glasses + swimming = swimming googles
+glasses + night = night vision
+corpse + preservative/formalin = taxidermy
+animal + meadow = deer
+deer + horns = moose
+ray charles + disability = blind
+blind + law = justice
+walk + earth = path
+path + city = sidewalk
+path + car = road
+road + road = highway
+path + water = river
+path + wood/plank/board = boardwalk
+path + mountain/forest = trail
+path + stone = cobbles
+egg + paint = easter egg
+easter egg + date = easter
+easter + island = easter island
+seed + energy = coffee
+candlex2 = candelabra
+sky + sun = day
+day + time = night
+number + drawing = figure
+dust + pot = urn
+pot/armour + headhat = helmet
+story + monster = horror
+detective + story = mystery
+story + west = western
+space + story = science fiction
+story + philosophy = mythology
+violence + story = action
+story + tragedy = drama
+story + time = historical 
+legend + story = fantasy
+laugh + story = conedy
+love + story = romance
+bird + bird = flock
+bird + pink = flamingo
+bird + baby = stork
+night + bird = owl
+communication + bird = parrot
+laugh + bird = mockingbird
+corpse + bird = vulture
+death + bird = raven
+jewellry + bird = crow
+usa + bird = bald eagle
+bird + beach = seagull
+tropics + bird = toucan
+legend + bridge = troll
+legend + mine = dwarf
+goat + legend = centaur
+legend + bull = minotaur
+baby + angel/wings = cherub
+christmas + legend/old man = santa
+legend + detective = sherlock
+legend + king = arthur
+scotland + legend = nessie
+spin + point/line = axis
+object + time = antique
+cloth + blood = bandage
+corpse + bandage = mummy
+shoe + mud = gumboots
+shoe + beach\summer = flip flops
+shoe + soldier = boots
+shoe + house = slippers
+woman + shoe = high heel
+sport\running + shoe = sneakers
+pirate\carribean + alcohol = rum
+camera + bones = xray
+wall + lake = dam
+alarm + energy = noise
+scientistx2 = lab
+scientist + building = lab
+doctorx2 = hospital
+doctor + building = hospital
+money + computer = bitcoin
+bank + money = interest
+video + tv = series
+series + alien = x-files
+series + friend = friends
+series + bar = cheers
+series + army = mash; band of brothers
+series + vampire = buffy; vampire diaries
+
+
+
+
+===============================================
+Multi Combinations
+===============================================
+series + comedy + army = mash
+series + drama + army = band of brothers
+red + green + blue = white
+wheel + wheel + wheel = tricycle
+christmas + machinegun/skyscraper + movie = diehard
+christmas + robbers + movie = home alone
+sex + pistols + music = sex pistols
+carbon + heat + pressure = diamond
+guns + roses + music = guns n roses
+foil + mexico + hero = zorro
+death + pestilence + war + famine = four horsemen
+life + death + life = reincarnation
+death + life + death = reincarnation
+straw + wood + brick = three little pigs
+leftx4/rightx4 = cycle
+star wars + death + star = deathstar
+distancex3 = volume
+city + snow + glass = snowglobe
+one + two + three = sequence
+legend + man + magic = wizard
+woman + magic + legend = witch
+cow + chicken + cartoon = cow and chicken
+police + cyborg + movie = robocop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============================================================================================================================================================
+SETS
+============================================================================================================================================================
+
+
+
+
+
+
+
+
+basics
+============================================================================================================================================================
+basics {earth, air, water, fire}
+moisture {dew, frost, ice, snow, blizzard, hail, rain, storm, flood, cloud, steam, hurricane, stream, river, waterfall, lake, moat, spill, sea, ocean, iceberg, wave, tsunami, pond, puddle, droplet, whirlpool, delta, }
+atmosphere {wind, sky, ozone, cloud, stratus, cumulus, cirrus, nimbus, thunderstorm, tornado, duststorm, mirage, stratosphere, mesosphere, ionosphere, aurora}
+terrestrial {land, beach, island, archipelago, ground, soil, desert, crater, dunes, mountain, mountain range, swamp, oasis, earthquake, coast, lagoon, valley, continent, savannah, pebble, tundra, plains, forest, jungle, volcano, rock, boulder, underground, tunnel, pit, ore, grove, meadow}
+heat {heat, lava, solid, liquid, gas, plasma, hot, cold, radiation, convection, conduction, absolute zero, flame, inferno, wildfire}
+
+
+materials
+============================================================================================================================================================
+materials {rubber, plastic, metal, alloy, brick, clay, concrete, cement, glass, crystal, wood, paper, cardboard, sand, stone, glue, lime, acid, alkalines, resin, nylon, cotton, wool, silk, leather, ceramic, tiles, denim, ash, pvc, asbestos}
+metals {steel, tungsten, iron, aluminium, copper, silver, gold, platinum, tin, zinc, lead, mercury, titanium, nickel, chrome, brass}
+radioactive {plutonium, uranium, americium, europium, caiifornium, francium, germanium, einsteinium, curium, radium, radon}
+elements {oxygen, hydrogen, helium, chlorine, flourine, sodium, potassium, calcium, lithium, magnesium, phosphorus, nitrogen, sulphur, carbon, silicon, neon, arsenic}
+matter {matter, molecule, atom, neutron, electron, proton, ion, photon, quark, antimatter, dark matter}
+minerals {mineral, pearl, granite, obsidian, diamond, sapphire, ruby, emerald, tanzanite, topaz, jade, flourspar, pyrite, dolomite, pyrite, limestone }
+organic compounds {amber, shale, kerogen, bitumen, methane, petroleum, gasoline, petrol, diesel, coral, oil, peat, coal, charcoal}
+chemicals {ozone, laughing gas, cfcs, tnt, napalm, hcl, sulphuric acid, fcl, methane, urine, hydrocarbon, teflon, strichnine, ricin, cyanide, co2, carbon monoxide, botox}
+
+
+
+
+fauna
+============================================================================================================================================================
+livestock {livestock, cow, bull, turkey, chicken, sheep, goat, rabbit, hamster, dog, cat, pig, horse, donkey}
+animals {animal, boar, llama, mouse, rat, camel, elephant, hippo, fox, wolf, lion, tiger, liger, monkey, moose, gorilla, giraffe, rhino, deer, badger, bear, polar bear, porcupine, reindeer, yak, kangaroo, panda, zebra}
+aquatic {fish, shark, piranha, dolphin, whale, stingray, eel, electric eel, goldfish, koi, hammerhead, swordfish, great white, flying fish, pufferfish, clownfish, seahorse, lobster, clam, crab, sea urchin, oyster, jellyfish, octopus, sea cucumber}
+birds {bird, crow, raven, vulture, eagle, seagull, pigeon, toucan, parrot, mockingbird, flamingo, duck, bald eagle, woodpecker, owl, stork, peacock, ostrich, roadrunner, penguin)
+reptiles {reptile, crocodile, lizard, snake, king cobra, anaconda, turtle, tortoise, frog, chameleon, salamander, komodo dragon}
+bugs {bug, insect, fly, beetle, ladybug, mosquito, leech, cockroach, tick, dragonfly, firefly, flea, fruit fly, dungbeetle, mantis, millipede, centipede, scorpion, lobster, crab, snail, worm, earthworm, tape worm, spider, tarantula, black widow}
+extinct {quagga, dodo, t-rex, dinosaur, pterasaur, triceratops, brachiosaurus, megaladon, saber tooth, wooly mammoth, neandrethal}
+
+flora
+============================================================================================================================================================
+flora {tree, bush, seed, flower, root, vine, creeper, vegetable, spice, herb, leaf, grass, reeds, sugarcane, fern, algae, seaweed, branch, moss, spore, fungus }
+fungi {fungus, mushroom, toadstool, 1up, booshroom, magic mushroom, yeast, mould, lichen, truffle}
+trees {pine, elm, oak, palm, redwood, bonsai, cactus, acacia, boabab, jasmine tree, juniper, fruit tree, orchard}
+flowers {rose, sunflower, lilly, lavender, bouquet, tulip, protea, daisy, venus fly trap, jasmine, poppy, nightshade, lotus, violet, carnation, daffodil, chamomile}
+fruits {fruit, apple, banana, berry, chilli, coconut, grape, lemon, litchi, mango, olives, orange, pineapple, kiwi, prickly pear, tomato, watermelon, avocadp}
+vegetables {artichoke, beans, broccoli, cabbage, carrot, peas, cucumber, garlic, lettuce, onion, potato, pumpkin, radish, sweet potato}
+grains {seeds, barley, wheat, oats, corn, rice, coffee, cocoa}
+herbs {herb, mint, oreganum, rosemary, vanilla, hemlock}
+spices {aniseed, curry, ginger, nutmeg, pepper, cinnamon}
+
+
+food
+============================================================================================================================================================
+food {food, diet, hotdog, pizza, escargot, pickles, scrambled eggs, soup, sandwich, salad, pie, fondue, hamburger, stir fry, tofu}
+starch {pasta, fries, sunflower/vegetable/olive oil, dough, flour, fat, donut, cake, bread, toast, popcorn, cereal, chips}
+sugars {mustard, tomata sauce, tobasco, chocolate, sugar, honey, syrup, caramel, jam, liquorice, vinegar}
+meat {meat, fugu, sushi, mince, sausage, steak, fried chicken, bacon, roast, jerkey, ribs}
+dairy {milk, cheese, icecream, butter, yoghurt, milkshake, sour milk, cream}
+drinks {tea, coffee, soda, coca cola, hot chocolate, juice, energy drink}
+alcohols {alcohol, rum, whiskey, vodka, wine, beer, gin, cognac, champagne, brandy, tequila, cocktail}
+drugs {weed, lsd, ecstasy, peyote, tobbacco, cocaine, methamphetaime, morphine, heroin, prozac, ambien, xanax, aspirin}
+
+
+
+
+
+
+
+built
+============================================================================================================================================================
+buildings {building, barracks, base, tent, villa, cottage, shelter, fort, bunker, teepee, cabin, gazebo, hut, castle, house, treehouse, lair, estate, barn, greenhouse, outhouse, tower, skyscraper, hideout, palace, }
+home areas {room, garage, study, living room, bedroom, bathroom, kitchen, basement, attic, hallway, courtyard, garden, swimming pool, cellar}
+places {village, town, datacentre, bank, embassy, field, site, airport, harbour, landfill, hospital, dungeon, jail, hotel, camp, lighthouse, junkyard, warehouse, station, space station}
+shops {shop, mall, bakery, butchery, restaurant, bazaar, speakeasy, bar, saloon, panelbeaters}
+educational places {university, school, library, kindergarden, theatre, opera house, museum, gallery, observatory}
+religious places {monastery, church, cemetary, mosque, temple, shrine, catacomb}
+recreational places {circus, icerink, stadium, racetrack, zoo, casino, park, golf course, playground, themepark, sauna, steam room}
+production {forge, factory, office, mine, farm, distillery, powerplant, tannery, laboratory, workshop, foundry, smelter}
+structures {well, windmill, crane, pylon, landmark, monument, wall, fence, barbed wire, tunnel, dam, swing, birdhouse, kennel, coop, scaffold, pier, parking lot, balcony, tent, barn, silo }
+travel {road, street, bridge, path, sidewalk, railroad, canal, trail, stairs, track, highway, subway, elevator }
+cities {city, new york, geneva, san francisco, los angeles, seattle, las vegas, washington, chicago, mexico city, havanna, london, berlin, paris, moscow, sydney, cape town, cairo, hong kong, tokyo, shanghai, bombay, venice}
+historic cities {athens, rome, jerusalem, babylon, pompei, prypriat, pomplona, vatican, casablanca, alexandria, salem}
+
+
+places
+============================================================================================================================================================
+countries {country, australia, papua new guinea, sweden, ukraine, brazil, japan, china, india, russia, france, germany, uk, ireland, scotland, romania, czechoslovakia, finland, norway, italy, egypt, somalia, south africa, congo, morocco, colombia, peru, mexico, usa, ussr}
+landmarks {parthenon, wall of china, statue of liberty, alcatraz, stonehenge, big ben, panama/suez canal, tower of babel, eiffel tower, leaning tower of pisa, sphinx, pyramids, kremlin, collosseum, taj mahal, christ the redeemer}
+continents {arctic, antarctic, europe, north america, south america, asia, africa, asia, middle-east, pangea}
+locations {location, hawaii, galapogos, easter island, nile, dead sea, california, marianas trench, bermuda triangle, tropic of cancer/capricorn, equator, matu pichu, grand canyon, san andreas fault, sahara, death valley, transylvania, amazon forest, uluru, mt. everest, chernobyl, mt. fuji, north pole, }
+astromical {star signs, moon, asteroid, comet, meteor, asteroid, sun, star, supernova, black hole, solar system, constellation, galaxy, galaxy cluster, universe, multiverse, satellite, space station}
+planets {planet, mercury, venus, earth, mars, saturn, jupiter, neptune, uranus, pluto, exoplanet}
+fictional {death star, tatooine, neutral zone, gotham city, metropolis, hogwarts, middle earth, mordor, the shire, umbrella corporation, atlantis, enterprise, dyson sphere, gondor}
+ethereal places {heaven, hell, purgatory, valhalla, nirvana, eden, dystopia, utopia}
+
+
+vehicles
+============================================================================================================================================================
+vehicles old {sled, carriage, sleigh, skiis, snowboard, skateboard, bicycle, unicycle, tricycle, pogo, roller skates, rickshaw, pram, trailer}
+vehicles (car, train, locomotive, tank, bus, truck, motorbike, trike, tractor, ambulance, firetruck, segway, jet pack, teleporter)
+aerial {propeller plane, airliner, jet, helicopter, space shuttle, spaceship, zepplin, handglider, parachute, air balloon, drone, ufo, }
+boats {surfboard, boat, jetski, raft, speedboat, ship, cruiseship, warship, wooden ship, pirate ship, catamaran, canoe, steamboat, sailboat, cargoship, tanker, submarine, bathosphere, yacht, gondola, aircraft carrier, rowboat, paddleboat}
+car types {car, supercar, racecar, musclecaar, electric car, flying car, pickup}
+cars {bugatti, ferrari, lamborghini, mclaren, porsche, mercedes, bmw, audi, vw, hondo, toyota, nissan, mustang, ford, chevrolet, chrysler, peugeot, seat, fiat, mini, aston martin, rolls royce, bentley, delorean}
+
+
+clothes
+============================================================================================================================================================
+clothes {clothes, dress, socks, kimono, toga, bikini, raincoat, spandex, gloves, stockings, ledenhosen, robe, trenchcoat, pyjamas}
+tops {cloak, shirt, poncho, coat, parka, jacket, sweater, vest, lifejacket, bra}
+bottoms {pants, jeans, shorts, skirt, kilt, sweatpants, bell-bottoms, mini, underwear}
+suits {suit, tuxedo, uniform, chainmail, platemail, scuba, hazmat, radiation, spacesuit}
+hats {hat, sombrero, top hat, fedora, crown, helmet, cowl, hardhat, cap, propeller cap, beanie, visor, turban, stetson, bandana, wigs, toupee}
+facewear {balaclava, glasses, sunglasses, swimming goggles, googles, nightvision, safety goggles, mask, gasmask, hockey mask}
+shoes {shoe, sneakers, clogs, flops, boots, heels, crocs, gumboots, loafers, spurs, blue suede shoes, togs, flippers, tap shoes}
+armour {armour, kevlar vest, shield}
+
+
+
+
+
+disciplines
+============================================================================================================================================================
+disciplines {discipline, study, topic, category}
+mathematics {arithmetic, algebra, trigonometry, geometry, calculus, statistics, set theory, topology, analysis, information theory}
+science {physics, astronomy, cosmology, chemistry, organic chemistry, geology, geography, biology, microbiology}
+engineering {civil, mechanical, electrical, aviation, chemical, industrial}
+medicine {anatomy, psychiatry, gynaecology, oncology, pathology, neurology, proctology, physiotherapy, cardiology...}
+arts {fine art, performance arts, music, linguistics}
+commerce {economics, business studies, finance, marketing, management}
+humanities {psychology, sociology, anthropology, paleontology, archeology, politics, law, history, philosophy}
+
+
+occupations
+============================================================================================================================================================
+entreprenurial jobs {entrepreneur, sailor, inventor, fisherman, farmer, merchant, contractor, explorer, salesman}
+service jobs {plumber, bartender, detective, police, politician, lawyer, fireman, postman, priest, nanny, spy, pilot, sheriff}
+knowledge jobs {prophet, philosopher, teacher, economist, programmer, engineer, scientist, historian}
+fighters {fighter, hunter, warrior, ninja, knight, samurai, soldier, guard, security, mercenary}
+athletes {athlete, acrobat, gymnast, boxer, runner, swimmer, cyclist, racer, bodybuilder}
+sciences {mathematician, physicist, cosmologist, geologist, chemist, zoologist, microbiologist}
+entertainers {author, ballerina, comedian, jester, actor, artist, sculptor, bard, musician, clown, mime, magician}
+leaders {leader, ceo, king, queen, duke, prince, princess, general, captain, president, dictator, chief, emperor, sultan, maharajah, manager, principal, don, pope, mayor, coach, conductor}
+medical {nurse, doctor, medic, pharmacist, oncologist, gerontologist, cardiologist, neurologist, psychiatrist, psychologist, surgeon, proctologist, opthamologist, dietician, osteopath, shaman, ent, paramedic}
+criminals {criminal, hacker, prisoner, assassin, killer, serial killer, mobster, thief, terrorist, conman, arsonist, bootlegger, drug dealer, outlaw, pirate}
+
+
+people
+============================================================================================================================================================
+politicians {caesar, spartacus, martin luther king, atilla the hun, joan of arc, lincoln, washington, nixon, trump, obama, thatcher, lenin, hirohito, mandela, napoleon, elizabeth II, churchill, kennedy, roosevelt}
+religious figures {gandhi, theresa, pope john paul II, elron l hubbard, jesus, mohammed, moses, lao tzu, buddha}
+scientists {da vinci, einstein, newton, darwin, kepler, hubble, liebnitz, gauss, turing, von neumann, hawking, heisenberg, bohr, florence nightingale, tesla, edison, curie, copernicus, galileo, pythagoras, watson & crick, eueler}
+entrepreneurs {disney, jobs, gates, hughes, ray kroc, versace, ford, zuckerberg, page & brynn, buffet, branson, musk, bezos, rockefeller}
+entertainers {spielberg, chaplin, rick james, james brown, michael jackson, ray charles, madonna, prince, monroe, eastwood, houdini, stephen king, michael crichton, shakespeare}
+villains {booth, hitler, mussolini, stalin, genghis khan, nero, napoleon, vlad the impaler, rasputin, oswald, gacy, bundy, manson, husein, bin laden, al capone}
+famous {neil armstrong, yager, bolt, tyson, ali, evil kaneevil, hulk hogan, oj simpson, yuri gargarin, edmund hilary, guttenburg, walter kronkite, columbus, megallan, cooke}
+superheroes {captain america, wonderwoman, superman, spiderman, batman, antman, x-men, aquaman, daredevil, ironman, goku, vegeta, thor, neo, yoda, skywalker, obi wan}
+supervillains {t1000, darth vader, joker, lex luthor, loki, agent smith, freddie krueger, pennywise, magneto, silver surfer, sauron}
+characters {frankenstein, dracula, robin hood, sherlock, arthur, gi joe, james bond, jack sparrow, r2d2, c3p0, leia, jabba, lando, boba fet, solo, picard, kirk, sisko, ewok, chewbacca, harry potter, golem, gandalf, merlin, columbo }
+dieties {god, buddha, jesus, mohammed, vishnu, krishna, kali, sheeva}
+ethereal creatures {angel, devil, demon, cherub, ghost, ectoplasm, banschee, grim reaper}
+fictional creatures {unicorn, pegasus, icarus, santa, easter bunny, tooth fairy, paladin, necromancer, orc, gargoyle, elf, alien, genie, troll, dwarf, centaur, minotaur, mermaid, succubus, dragon, cyclops, medusa, bigfoot, witch, wizard, superhero, monster, zombie, mummy, werewolf, vampire, bogey man, harpy, ent, cerberus, valkyrie, kraken, fairy }
+
+
+groups
+============================================================================================================================================================
+groups {group, committee, congress, people, society, orchestra, company, majority, minority, family, family tree, mob, party, collective, me, you, we, them, market, stock exchange}
+companies {company, microsoft, apple, ibm, ea games, bethesda, sega, dolce & gabbana, rolex, nintendo, enron, fedex, american express, nike, harley davidson, boeing, samsung, cnn, intel, nvidia, amd, jack daniels, paramount, kfc, mcdonalds, pizza hut, subway, starbucks }
+websites {website, google, facebook, amazon, twitter, imdb, netflix, wikipedia, ebay, youtube, pirate bay, napster, dropbox}
+departments {department, nasa, homeland security, cia, fbi, nsa, treasury, justice, irs, parks and recreation}
+religion {christianity, judaism, hinduism, satanism, wiccan, muslim, shinto, taoism, atheism, scientology, shamanism, buddhism}
+organizations {green peace, un, nazis, peta, maga, hells angels, democrats, republicans, taliban, spanish inquisition, free masons, amish, doctors without borders, mafia, gang, cult, army}
+fictional {borg, starfleet, jedi, sith, justce league, cylons, zerg, protoss, fellowship of the ring, orcs, klignons, crusaders, martians}
+societal {rome, incas, mayans, jewish, eskimos, mongols, huns, vikings, visigoths, cossacks, tartars, beduins, barbarians, khoi san, aboriginee, spartans, mesopotamians, nomads}
+factions {luddites, transhumanists, ascetists, tradionalists,  xenophobes, isolationists, moderates, conformists, radicals, fanatics, revolutionaries, idealists, pragmatists, realists, cynics, elitist, misanthrope, puritan, racist, pacificist, survivalist}
+governance {conservatives, liberals, fascists, nationalists, meritocrats, plutocrats, authoritarians, anarchists, capitalists, socialists, communists, aristocrats, authoritarian, theocrat, libertarians}
+
+physiology
+============================================================================================================================================================
+anatomy {head, brain, heart, leg, arm, hand, mouth, eye, ear, nose, chest, back, posterior, organ, hair, joint, bone, skull, muscle, blood}
+body systems {immune, digestive, circulatory, nervous, reproductive, skeletal, muscalar}
+senses {sense, look, see, hear, taste, touch, hunch, premonition, telepathy}
+diseases {disease, althziemers, flu, ebola, covid, aids, acne, rabies, anthrax, botchulism, dysentery, pneumonia, parasites, addiction, dandruff, obesity, gangrene, baldness, epilepsy, ibs, ulcer, arthritis, gastroenteritis, halitosis, asthma}
+disabilities {disability, blind, deaf, paralysis, dyslexia, crippled, impotence}
+symptoms {symptom, diahhrea, fever, chills, dizziness, cramps, aches, fatigue, photosensitivity, itchiness, blisters, runny nose, bruises, flatulence, allergy, withdrawls }
+death {senescence, strangulation, electrocution, gunshot, poisoning, car accident, disease, boedom, asphyxiation, conflaguration, exsanguanation, blunt-force trauma, starvation, coronary, cancer, overdose, infection}
+biology {biology, life, cell, dna, rna, mitochondria, bacteria, virus, evolution}
+ageing {age, fetus, baby, toddler, child, teenager, young adult, adult, middle aged, old, supercemtarian, ancient, immortal}
+
+
+
+
+
+arts
+============================================================================================================================================================
+illustrative {charcoal, pencil, pen, paint, crayons, graffiti, ink, dye, pastels, pigment, clay, wax}
+communication {map, tattoo, hierglyphics, smoke signals, sign language, diagram, writing, symbols, prayer, bible, talk, words, language, typing, email, message, call, story, lie, truth, announcement, promise, oath, code}
+arts {art, painting, sculpture, statue, poem, drawing, performance, photo, mosaic}
+colours {white, black, red, green, blue, yellow, orange, purple, brown}
+music {pop, rock, metal, country, blues, gospel, rap, classical, reggae, jazz, opera, edm}
+genres {horror, action, drama, historical, romance, musical, animated, fantasy, western, science fiction, comedy, adventure}
+films {bladerunner, weekend at bernies, back to the future, matrix, robocop, terminator, aliens, star wars, blade, jaws, psycho, ghostbusters, godfather, nightmare on elm str, it, gone with the wind, casablanca, silence of the lambs, jurassic park, indiana jones, toy story, rocky, rocky horror, lord of the rings}
+tv {star trek, cheers, x-files, breaking bad, prison break, sopranos, csi, law & order, american idol, top gear, battlestar galactica, animal planet, south park}
+computer games {sim city, sims, asteroid, pong, donkey kong, mario, space quest, kings quest, guitar hero, fifa, nfs, gta, doom, wolfenstein, minecraft, skyrim, fallout, tomb raider, wow, starcraft, sonic, mortal kombat, tetris, pacman, zelda, final fantasy, duke nukem, quake, c&c, solitaire, dance revoolution}
+musical instruments {digiridoo, violin, harp, flute, saxaphone, horn, drums, guitar, banjo, organ, gong, theraman, trumpet, bagpipe, sitar, bongo, harmonica, electric guitar, piano, xylophone, keytar, synthesizer, ukelele}
+
+
+
+
+
+lights {light, lamp, neon light, laser, bulb, led, prism, projection, rainbow, double rainbow, aurora, campfire, glow, shadow, darkness, lens, telescope, micrsoscope, spark, mirror, candle, candelabra, chandelier, fibre optics, UV lamp}
+containers {container, box, chest, toobox, safe, vault, drawer, bag, closet, cupboard, jar, can, pot, dish, pan, basket, crate, flask, bottle, bubble, bin, package, fireplace, ashtray, bowl, barrel, bucket}
+clocks {date, calender, clock, watch, smartwatch, sundial, eggtimer, countdown, carbon dating, atomic clock, hourglass}
+appliances {microwave, oven, stove, fridge, freezer, kettle, washing machine, tumble dryer, dishwasher, vacuum, iron, blender, alarm, fire alarm, burgler alarm, heater, airconditioner, fan, coffee machine, vending machine}
+furniture {table, bed, futon, counter, cot, coatrack, lamp, carpet, rug, curtains, linen, chair, stool, sofa, deckchair, wheelchair, electric chair, swing, beanbag, seat, saddle, bench}
+plumbing {bathroom, toilet, shower, bath, sink, tap, drain, sewer, geyser, irrigation}
+household items {soap, shampoo, brush, broom, mop, towel, garbage, deoderant, perfume, dustpan}
+valuables {money, treasure, gem, jewelry, necklace, earrings, pearls, heirloom, deed, will}
+
+
+commerce {commerce, banking, ecommerce, bitcoin, economy, stock, money, coin, credit, debit, credit card, check, accounting, product, service, goods, trade, globalization}
+
+
+
+
+
+toys {kaleidoscope, top, army men, slinky, jack in a box, rattle, kite, lego, playdough, etch n sketch, watergun, paintball gun, doll, teddy bear, pinata, frisbee, rc car, drone, paper plane, trampoline, pogo, jumping castle, potato head, chewtoy}
+games {playcards, quiji board, game, rock paper scissors, action figures, puppet, cluedo, pinball, trivial pursuit, pictionary, chess, tag, hide and seek, marco polo, shoots and ladders, dungeons and dragons, paintball, sudoku, crooswords, dominoes, majhong}
+
+
+
+
+inventions
+============================================================================================================================================================
+inventions {invention, sextant, compass, adverts, periscope, ladder, makeup, printing machine, 3d printer, tape, assembly line, medicine, automation, organ transplant, loom}
+medical equipment {bandage, syringe, stethescope, pill, antibiotics, ecg, vaccine, cast, painkillers, scalpel, thermometer, life support, antiseptic}
+tools simple {tool, shovel, pipe, thread, handle, spring, button, coil, wheel, plank, cloth, anvil, sandpaper, ruler, paddle}
+splitting tools {blade, sickle, scissors, shears, axe, knife, saw, chainsaw}
+binding tools (thread, rope, chain, net, nail, screw, string, duct tape, glue, hammer)
+machines {machine, scale, pulley, pump, drill, clamp, winch, propeller}
+ancient weapons {weapon, arms, trap, poison, sword, katana, foil, sabre, dagger, whip, mace, lance, spear, trident, arrow, bow, catapault, flail, cannon, musket, shiruken}
+current weapons {bullet, torpedo, icbm, taser, gun, revolver, handgun, machine gun, artillery, aa, chemical weapon, biological weapon, blaster, light saber}
+explosives {bomb, dynamite, molotov cocktail, grenade, mine, depth charge, atom bomb, hydrogen bomb }
+
+
+
+technology
+============================================================================================================================================================
+computer technology {abacus, calculator, transistor, microchip, computer, pc, laptop, supercomputer, network, robot, cyborg, android, nanobot, wire, satellite, keyboard, mouse, vr, printer, ai, quantum computer}
+communication technology {telegram, fax, telephone, smartphone, modem, wireless, fibre optics, letter, radio, sonar, radar}
+computer games {sims, sim city, doom, need for speed, the elder scrolls, candy crush, starcraft, pong, supermario, pacman}
+software technology {os, database, spreadsheet, gui, internet, barcode, binary, opcode, social media, email, programming language, firewall}
+
+
+
+sports {sport, running, swimming, cycling, bodybuilding, darts, pool, soccer, tennis, basketball, football, racing, snowboarding, surfing, skiing, hiking, archery, fencing, boxing, wrestling, volleyball, gymnastics, polo}
+hobbies {fishing, knitting, collecting (stamp, coin,...), reading, dancing, hiking, travelling, skydiving, origami}
+
+
+
+
+
+
+events
+============================================================================================================================================================
+dates {new years, valentines, st. patricks, april fools, fourth of july, earth day, birthday, spring, halloween, thanksgiving, christmas, olympics, election day, festivals, award ceremonies, vacation}
+occassions {event, baptism, picnic, visit, funeral, birth, graduation, retirement, coronation, wedding, promotion, celebration, eclipse, solar flare, meteor shower}
+historical {big bang, pangea, primordial soup, killer meteor, out of africa, ice age, great flood, vesuvius eruption, black death, rennaisance, industrial revolution, ww1, trinity rxplosion, ww2, cold war, space travel, apocalypse, heat death}
+
+
+
+
+
+
+
+
+
+
+
+
+mental
+============================================================================================================================================================
+mind {knowledge, intelligence, intuition, idea, dilemna, hypothesis, model, concept, taxonomy, category, heirarchy, system, theory, experiment, proof, right, wrong}
+emotions {happy, sad, angry, scared, bored, confusion, disgust, excited, love, proud, confident}
+aspects {aspect, mind, body, soul, personality, thoughts, emotions}
+Psychotropics {depressants, stimulants, anti-depressants, tranquilizers, sedatives, psychadelics, hallucinogenic, hypnotics, mood-stabilizers, anti-psychotcs, aphrodisiacs, nootropic, placebo, deliriants, mood-stabilizers, mood-enhancers}
+Neuochemicals {seratonin, oxytocin, choline, dopqamine, gaba, 5htp, hgh, hormone, estrogen, testosterone, steroids}
+
+
+
+
+
+
+
+
+
+
+behaviours
+============================================================================================================================================================
+sins {sin, gluttony, sloth, lust, wrath, greed, jealousy, pride, murder, adultery, theft, abuse}
+actions {act, sleep, sit, walk, run, pray, talk, read, listen, work, play}
+reactions {react, do, dont, think, move, take, give, keep, stay, go, say, be, change, try, fail, succeed, join, leve, respond, reflect}
+behaviour {cry, laugh, shout, fight, hide, avoid, seek, want, habit}
+traits {trait, fault, virtue, (dis)honest, (dis)loyal, proud, humble, (un)forgiving, vengeful, (im)patient, stubborn, (un)trustworthy, (un)kind, (un)fair, (non)judgemental, (hot)level-headed, (dis)obedient}
+
+
+concepts
+============================================================================================================================================================
+force {energy, electricity, gravity, nuclear, weak/strong electromagnetic, hydroelectric, geothermal, windpower, solar, coalpower, kinetic, potential, chemical, pressure, explosion, implosion, entropy, dark energy, magic}
+waves {vibration, wave, frequency, soundwave, lightwave, infrared, visible, ultraviolet, ultrasonic, micro-wave, radio-wave, alpha, beta, gamma }
+amounts {amount, some, all, none, one, most, few, more, less, group, crowd, odd, even, sample}
+shapes {line, curve, angle, point, edge, vertex, circle, ring, triangle, square, rectangle, rhombus, trapezium, polygon, pentagon, hexagon, octagon, sphere, pyramid, cube}
+sets {set, in, not in, contains, is, like, unlike, subset, superset, of, for, equivalent, equals, collect, partition}
+time (time, second, minute, hour, day, week, month, season, year, decade, centurty millenium, night, day, old new, ancient, past, present, future)
+movement {motion, expand, contract, stop, start, accelerate, decelerate, move closer, move farther}
+decades {1900s, 1910s, 1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s}
+ages {stone, bronze, iron, middle, rennaisance, industrial, information}
+work {work, project, task, duty, chore, occupation, career, vocation, magnum opus, calling, masterpiece}
+arithmetic {add, subtract, multiply, divide}
+directions {up, down, left, right, north, south, east, west, forward, reverse}
+
+
+Measures
+============================================================================================================================================================
+nature {force, energy, power, torque, distance, time, velocity, acceleration, mass, density, temperature, area, volume, frequency, intensity}
+measures {measure, joule, pascal, siverts, lumen, camdela, newton, watt, ampere, volt, kilogram, meter, avogadro constant, light year, ohm, coulomb, radians, mole, ph, angstrom, hertz, kelvin, second, moh, degree, lux, }
+quantities {amount, quantity, distance(far, close), speed(fast, slow), heat(hot, cold), frequency(often, seldom), amount(little, lots)}
+boundaries {boundary, record, sound barrier, lightspeed, heliotrope, edge of the world, glass ceiling, perimeter, known universe}
+
+
+
+
+
+
+
+
+
+
+
+
+=======================================
+TO DECIDE
+=======================================
+genius, winner, loser, crop circle, bleach/naoh, cross, dry ice, fireworks, bell, firing squad, fly swatter, bomb squad, altar, osmosis, condensation, sublimation, convection, conduction, radiation, diffusion, concentration, dilation, contraction
+demonstration, practice, habit, rich, poor, flag, web, crystal ball, question, answer, traffic, anchor, weight, extinguisher, quizz, test, pot pourri, 
+

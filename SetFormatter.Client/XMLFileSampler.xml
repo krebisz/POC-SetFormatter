@@ -1,0 +1,27 @@
+<UniversalEvent xmlns="http://www.com/Schemas/Universal/2012/11">
+	<Event>
+		<EventTime>2022-02-11T03:22</EventTime>
+		<EventType>IRJ</EventType>
+		<EventParameters>
+			<Department>WiseTechGlobal</Department>
+			<MessageType>Container Tracking</MessageType>
+			<Reason>Subscription key is not valid</Reason>
+		</EventParameters>
+		<IsEstimate>false</IsEstimate>
+		<ContextCollection>
+			<Context>
+				<Type>CarrierCode</Type>
+				<Value>MSCU</Value>
+			</Context>
+			<Context>
+				<Type>MBOLNumber</Type>
+				<Value>MAS987654</Value>
+			</Context>
+		</ContextCollection>
+		<DataContext>
+			<DataSource>
+				<DataProvider>WTG Tracking &amp; Automation</DataProvider>
+			</DataSource>
+		</DataContext>
+	</Event>
+</UniversalEvent>

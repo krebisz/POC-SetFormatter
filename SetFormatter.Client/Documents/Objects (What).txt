@@ -1,0 +1,66 @@
+particles
+==================================
+antimatter, atom, boson, dark matter, dipole, electron, ion, isotope, lepton, meson, neutron, photon, positron, proton, quark, tachyon
+
+types
+==================================
+acid, alloy, atom, base, catalyst, compound, conductor, element, gas, insulator, liquid, mineral, mixture, molecule, oxidizer, plasma, reducer, semiconductor, solid, solvent, superconductor 
+
+
+elements
+==================================
+
+compounds
+==================================
+alcohol, ammonia, asbestos, bakelite, bleach, brass, carbon monoxide, cfcs, co2, cyanide, dolomite, fcl, hcl, hydrogen peroxide, laughing gas, gasoline, methane, ozone, rust, salt, steel, sulphuric acid, thc, urea
+
+
+materials
+==================================
+alloy, bark, bitumen, brick, cardboard, cellulose, cement, ceramic, charcoal, clay, coal, compound, concrete, cotton, crystal, enamel, fabric, flint, glass, glue, granite, keratin, kevlar, lime, limestone, metal, mixture, nylon, obsidian, oil, ore, paper, plywood, polyster, plastic, pvc, rubber, sand, silk, stone, talcum, teflon, wax, wood, wool,
+
+
+
+components
+==================================
+anvil, button, bars, board, blade, bearing, bolt, chain, cloth, dye, elastic, funnel, gear, fulcrum, hinge, handle,
+lens, magnet, mesh, nut, nail, lever, paint, pipe, pedal, paddle, peg, pin, plank, pulley, 
+rod, rope, strap, screw, shaft, switch, stick, stake, spring, string, tape, 
+winch, wire, wedge, wheel
+
+machines
+==================================
+pump, clock, forge, furnace, mill, grindstone, loom, printing press, filter, drill, pendulum,
+capacitor, transformer, resistor, battery, bell, 
+chainsaw, fan, boiler, welder, 
+
+tools
+==================================
+axe, arrow, bow, brush, dart, glasses, hammer, fork, hook, 
+knife, match, net, needle, pen, pencil, pickaxe, pliers
+shears, scissors, saw, sickle, spear, screwdriver, spoon, sieve, sandpaper, explosive, tnt, vice
+
+
+measurers
+==================================
+abacus, accelerometer, altimeter, atomic clock, barometer, calender, calipers, calculator, calorie counter, clock, compass, competition, doomsday clock, dynograph, ecg, eggtimer, exam, eye test, geiger counter, hourglass, iq test, kitchen scale, litmus paper, mass spectrometer, measuring tape, metronome, microscope, motion sensor, mri, odometer, pcr, pet scan, photometer, polygraph, questionaire, radar, ranking, ruler, scale, scoreboard, seizmometer, speedometer, spirit level, sonar, stopwatch, sundial, telescope, thermometer, veneer, voltmeter, watch, windsock, x-ray,
+
+
+
+
+
+
+containers
+==================================
+bag, backpack, box, bowl, barrel, basket, beaker, bottle, briefcase, bubble, bucket, cage, can, case, cast, cavern, cell, chalice, chamber, cocoon, coffin, compartment, couldron, crate, cubicle, cup, cupboard, dumpster, envelope, flask, goblet, handbag, hole, housing, husk, jacket, jug, keg, layer, ledge, mould, mug, packet, package, pan, partition, pipette, pocket, peal, petri dish, pipe, pit, plate, pot, purse, room, satchel, sheath, shelf, shell, silo, safe, sack, skip, sleeve, suitcase, tomb, toolbox, trough, trunk, tub, urn, vat, vessel, vial, vault, wallet, well, wineglass, womb, wrapping
+
+
+
+weapons
+==================================
+sword, katana, schimtar, dagger, trident, maul, whip, mace, nunchucks, cutlass, flail, scythe, bayonet, shiv, 
+crossbow, ballista, catapault, canon, throwing star, sling, flamethrower, 
+mace, pellet gun, tazer, baton, bullet, gunpowder, nitroglycerin, dirty bomb
+poison, gun, musket, rifle, automatic weopon, machine gun, artillery, cannon, landmine, torpedo, sniper rifle, bazooka, shotgun,  
+bomb, atom bomb, hydrogen bomb, missiles, smartbomb, bioweapon, neurotoxin, v2, icbm, molotov cocktail, grenade, napalm, mustard gas, railgun
+batlith, light saber, lasergun, deathray, deathstar, wand, 

@@ -1,0 +1,424 @@
+basics
+{
+basics [air, earth, fire, water]
+heat [absolute zero, cold, convection, conduction, flame, gas, heat, hot, inferno, lava, liquid, plasma, radiation, solid, wildfire]
+terrestrial [archipelago, beach, boulder, crater, coast, continent, desert, dunes, earthquake, forest, ground, grove, island, jungle, land, lagoon, mountain, mountain range, meadow, oasis, ore, pebble, plains, pit, rock, soil, swamp, savannah, sinkhole, tundra, tunnel, trench, underground, valley, volcano]
+atmosphere [aurora, cloud, cumulus, cirrus, duststorm, gust, gale, ionosphere, mirage, mesosphere, nimbus, ozone, sky, stratus, stratosphere, thunderstorm, tornado, wind]
+moisture [blizzard, cloud, dew, droplet, delta, frost, flood, hail, hurricane, ice, iceberg, lake, moat, ocean, pond, puddle, rain, river, snow, storm, steam, stream, spill, sea, tsunami, waterfall, wave, whirlpool]
+}
+
+materials
+{
+materials [alloy, acid, alkalines, ash, asbestos, brick, clay, concrete, cement, crystal, cardboard, cotton, ceramic, denim, glass, glue, lime, leather, limestone, metal, nylon, plastic, paper, pvc, rubber, resin, sand, stone, silk, tiles, textiles, wood, wool]
+metals [aluminium, brass, copper, chrome, gold, iron, lead, mercury, nickel, platinum, steel, silver, tungsten, tin, titanium, zinc]
+radioactive [americium, caiifornium, curium, europium, einsteinium, francium, germanium, plutonium, radium, radon, uranium]
+matter [atom, antimatter, dark matter, electron, ion, matter, molecule, neutron, proton, photon, quark]
+organic compounds [amber, bitumen, coral, cork, coal, charcoal, diesel, gasoline, kerogen, methane, oil, petroleum, petrol, peat, shale, wax]
+chemicals [botox, cfcs, cyanide, co2, carbon monoxide, fcl, hcl, hydrocarbon, laughing gas, methane, napalm, ozone, ricin, sulphuric acid, strichnine, tnt, teflon, urine]
+textile [acrylic, cloth, cotton, denim, fabric, leather, nylon, polyester, silk, suede, wool, yarn]
+elements [arsenic, chlorine, calcium, carbon, flourine, hydrogen, helium, lithium, magnesium, nitrogen, neon, oxygen, potassium, phosphorus, phosphur, sodium, sulphur, silicon]
+reactants [adjunct, buffer, coolant, catalyst, lubricant, reactant, reagent, retardamt, solvent, stabilizer]
+minerals [diamond, dolomite, emerald, flourspar, granite, jade, limestone, mineral, obsidian, pearl, pyrite, ruby, sapphire, tanzanite, topaz]
+}
+
+fauna
+{
+livestock [bull, cow, chicken, cat, dog, donkey, goat, hamster, horse, livestock, pig, rabbit, sheep, turkey]
+aquatic [clownfish, clam, crab, dolphin, eel, electric eel, fish, flying fish, goldfish, great white, hammerhead, jellyfish, koi, lobster, oyster, octopus, pufferfish, piranha, shark, stingray, swordfish, seahorse, sea urchin, squid, sea cucumber, whale]
+birds [bird, bald eagle, crow, canary, duck, eagle, flamingo, mockingbird, owl, ostrich, pigeon, parrot, peacock, penguin, raven, roadrunner, seagull, stork, toucan, vulture, woodpecker]
+reptiles [anaconda, crocodile, chameleon, frog, iguana, king cobra, komodo dragon, lizard, reptile, snake, salamander, turtle, tortoise]
+extinct [brachiosaurus, dodo, dinosaur, megaladon, neandrethal, pterasaur, quagga, saber tooth, t-rex, triceratops, wooly mammoth]
+animals [animal, boar, bear, badger, camel, chimp, deer, elephant, fox, gorilla, giraffe, hippo, kangaroo, llama, lion, liger, mouse, monkey, moose, mammoth, polar bear, porcupine, panda, rat, rhino, reindeer, tiger, wolf, yak, zebra]
+bugs [bug, beetle, black widow, cockroach, centipede, crab, dragonfly, dungbeetle, earthworm, fly, firefly, flea, fruit fly, insect, ladybug, leech, lobster, mosquito, mantis, millipede, scorpion, snail, spider, tick, tape worm, tarantula, worm]
+}
+
+flora
+{
+flora [algae, bush, branch, bark, creeper, flower, fern, fungus, grass, herb, leaf, moss, root, reeds, seed, spice, sugarcane, seaweed, spore, tree, vine, vegetable]
+trees [acacia, bonsai, boabab, cactus, elm, fruit tree, jasmine tree, juniper, oak, orchard, pine, palm, redwood]
+fruits [apple, avocado, banana, berry, chilli, coconut, fruit, grape, kiwi, lemon, litchi, mango, olives, orange, pineapple, prickly pear, tomato, watermelon]
+herbs [herb, hemlock, mint, oreganum, rosemary, vanilla]
+fungi [1up, booshroom, fungus, lichen, mushroom, magic mushroom, mould, toadstool, truffle, yeast]
+flowers [bouquet, carnation, chamomile, daisy, daffodil, jasmine, lilly, lavender, lotus, nightshade, protea, poppy, rose, sunflower, tulip, venus fly trap, violet]
+vegetables [artichoke, beans, broccoli, cabbage, carrot, cucumber, garlic, lettuce, onion, peas, potato, pumpkin, radish, sweet potato]
+grains [barley, corn, coffee, cocoa, oats, rice, seeds, wheat]
+spices [aniseed, curry, cinnamon, ginger, nutmeg, pepper]
+}
+
+food
+{
+food [caviar, diet, escargot, egg, food, fondue, hotdog, hamburger, pizza, pickles, pie, scrambled eggs, soup, sandwich, salad, stir fry, tofu]
+sugars [chocolate, caramel, cotton candy, honey, jam, liquorice, liqourice, mustard, molasses, sugar, syrup, tomata sauce, tobasco, vinegar]
+drinks [coffee, coca cola, energy drink, hot chocolate, juice, soda, tea]
+starch [bread, biscuit, cake, cereal, chips, dough, donut, fries, flour, fat, pasta, popcorn, sunflower/vegetable/olive oil, toast, waffle]
+dairy [butter, cheese, cream, icecream, milk, milkshake, sour milk, yoghurt]
+meals [appetizer, breakfast, brunch, dessert, lunch, meal, mains, supper, starters, snack]
+sauces [barbeque, chutney, ketchup, lemon & herb, mayonnaise, pesto, peri peri, soy, salsa]
+tastes [bitter, sweet, sour, salty, umami]
+foodgroups [carbohydrates, dairy, fats, fibre, protein]
+herbs [basil, chamomile, mint, oreganum, sage]
+spices [chilli, curry, ginger, paprika, tumeric]
+poisons [botox, cyanide, hemlock, poison, ricin, strichnine]
+drugs [ambien, aspirin, cocaine, ecstasy, heroin, lsd, methamphetaime, morphine, peyote, prozac, tobbacco, weed, xanax]
+meat [bacon, fugu, fried chicken, jerkey, meat, mince, roast, ribs, sushi, sausage, steak]
+alcohols [alcohol, beer, brandy, cognac, champagne, cocktail, gin, rum, tequila, vodka, whiskey, wine]
+}
+
+built
+{
+home areas [attic, bedroom, bathroom, basement, courtyard, cellar, garage, garden, hallway, kitchen, living room, room, study, swimming pool]
+shops [bakery, butchery, bazaar, bar, boutique, mall, panelbeaters, restaurant, shop, speakeasy, saloon]
+recreational places [circus, casino, golf course, icerink, nightclub, park, playground, racetrack, stadium, sauna, steam room, studio, themepark, zoo]
+historic cities [athens, alexandria, babylon, casablanca, hiroshima, jerusalem, pompei, prypriat, pomplona, rome, salem, vatican]
+building parts [ceiling, chimney, door, fence, floor, gate, pillar, roof, stairs, wall, window]
+places [airport, armory, bank, camp, datacentre, dungeon, embassy, field, harbour, hospital, hotel, haunted house, jail, junkyard, landfill, lighthouse, neighbourhood, orphanage, obstacle course, site, station, space station, town, village, vet, vineyard, warehouse]
+educational places [gallery, kindergarden, library, laboratory, museum, opera house, observatory, school, theatre, university]
+ivy league [brown university, caltech, cambridge, cornell, harvard, mit, notre dame, oxford, ucla, yale]
+production [distillery, forge, factory, farm, foundry, laboratory, mine, office, powerplant, smelter, tannery, workshop]
+structures [aquarium, barbed wire, birdhouse, balcony, barn, crane, coop, cage, dam, elevator, fence, kennel, landmark, mine shaft, monument, mailbox, pogoda, pylon, pier, parking lot, swing, scaffold, silo, tunnel, terrarium, tent, well, windmill, wall]
+buildings [asylum, building, barracks, base, bunker, barn, cabin, castle, court, cottage, estate, fort, gazebo, greenhouse, gym, hut, house, hideout, jail, lair, outhouse, palace, shelter, skyscraper, tent, teepee, treehouse, tower, villa]
+travel [bridge, canal, elevator, highway, path, road, railroad, route, street, sidewalk, stairs, subway, trail, track]
+religious places [church, cemetary, catacomb, monastery, mosque, shrine, temple]
+cities [berlin, bombay, city, chicago, cape town, cairo, geneva, havanna, hong kong, los angeles, las vegas, london, mexico city, moscow, new york, paris, san francisco, seattle, sydney, shanghai, tokyo, venice, washington]
+}
+
+places
+{
+countries [australia, brazil, country, china, czechoslovakia, congo, colombia, egypt, france, finland, germany, india, ireland, italy, japan, morocco, mexico, norway, papua new guinea, peru, russia, romania, sweden, scotland, somalia, south africa, ukraine, uk, usa, ussr]
+continents [arctic, antarctic, asia, africa, europe, middle-east, north america, pangea, south america]
+astromical [asteroid, black hole, comet, constellation, dyson sphere, galaxy, galaxy cluster, moon, multiverse, meteor, star signs, sun, star, solar system, supernova, satellite, space station, universe]
+landmarks [alcatraz, big ben, collosseum, christ the redeemer, eiffel tower, kremlin, leaning tower of pisa, parthenon, panama/suez canal, pyramids, statue of liberty, stonehenge, sphinx, tower of babel, taj mahal, wall of china]
+locations [amazon forest, bermuda triangle, california, chernobyl, dead sea, death valley, easter island, equator, galapogos, grand canyon, hawaii, location, marianas trench, matu pichu, mt. everest, mt. fuji, nile, north pole, san andreas fault, sahara, tropic of cancer/capricorn, transylvania, uluru]
+planets [earth, exoplanet, jupiter, mercury, mars, neptune, planet, pluto, saturn, uranus, venus]
+ethereal places [armageddon, apocalypse, dystopia, eden, heaven, hell, nirvana, purgatory, ragnarok, utopia, valhalla]
+fictional [atlantis, death star, dyson sphere, enterprise, gotham city, gondor, hogwarts, metropolis, middle earth, mordor, neutral zone, tatooine, the shire, umbrella corporation]
+}
+
+vehicles
+{
+vehicles [ambulance, bus, bulldozer, car, earthmover, firetruck, forklift, jet pack, locomotive, motorbike, segway, squadcar, steamroller, train, tank, truck, trike, tractor, teleporter, towncar]
+boats [aircraft carrier, boat, bathosphere, cruiseship, catamaran, canoe, cargoship, gondola, jetski, lifeboat, pirate ship, paddleboat, raft, rowboat, surfboard, speedboat, ship, steamboat, sailboat, submarine, tanker, warship, wooden ship, yacht]
+vehicles old [bicycle, carriage, chariot, locomotive, pogo, pram, roller skates, rickshaw, sled, sleigh, skiis, snowboard, skateboard, stilts, tricycle, trailer, unicycle]
+aerial [airliner, air baloon, drone, helicopter, hovercraft, handglider, jet, jetpack, propeller plane, parachute, space shuttle, starship, spaceship, ufo, zepplin]
+vehicle part [anchor, bow, brakes, chassis, engine, helm, hull, instrument panel, rudder, rocket, steering wheel, sail, transmission, tyre, turbine, wing]
+cars [audi, aston martin, bugatti, bmw, bentley, chevrolet, chrysler, cat, delorean, ferrari, ford, fiat, hondo, hummer, jeep, lamborghini, limousine, mclaren, mercedes, mustang, mini, nissan, porsche, peugeot, rolls royce, seat, toyota, vw]
+car types [car, electric car, flying car, musclecaar, pickup, racecar, supercar]
+}
+
+clothes
+{
+clothes [bikini, bowtie, clothes, dress, gloves, kimono, ledenhosen, pyjamas, raincoat, robe, socks, spandex, stockings, scarf, toga, trenchcoat, tie]
+tops [bra, cloak, coat, jacket, lifejacket, poncho, parka, shirt, sweater, vest]
+bottoms [bell-bottoms, jeans, kilt, mini, pants, shorts, skirt, sweatpants, underwear]
+suits [chainmail, hazmat, platemail, radiation, suit, scuba, spacesuit, tuxedo, uniform]
+shoes [boots, blue suede shoes, clogs, crocs, flops, flippers, gumboots, heels, loafers, shoe, sneakers, spurs, togs, tap shoes]
+armour [armour, camoflouge, force field, kevlar vest, padding, shield]
+hats [beanie, bandana, crown, cowl, cap, fedora, hat, helmet, hardhat, propeller cap, sombrero, stetson, top hat, turban, toupee, visor, wigs]
+facewear [balaclava, glasses, googles, gasmask, hockey mask, mask, nightvision, sunglasses, swimming goggles, safety goggles]
+}
+
+disciplines
+{
+disciplines [category, discipline, faculty, study, topic]
+mathematics [arithmetic, algebra, analysis, calculus, geometry, information theory, statistics, set theory, trigonometry, topology]
+science [astronomy, biology, cosmology, chemistry, geology, geography, microbiology, organic chemistry, physics]
+engineering [aviation, civil, chemical, electrical, industrial, mechanical]
+medicine [anatomy, cardiology..., gynaecology, neurology, oncology, psychiatry, pathology, proctology, physiotherapy]
+arts [fine art, linguistics, music, performance arts]
+humanities [anthropology, archeology, history, law, psychology, paleontology, politics, philosophy, sociology]
+commerce [accounting, banking, bitcoin, commerce, coin, credit, credit card, check, debit, ecommerce, economy, goods, globalization, money, product, stock, service, trade]
+business studies, commerce, economics, finance, marketing, management [}
+
+occupations
+{
+entreprenurial jobs [contractor, entrepreneur, explorer, fisherman, farmer, inventor, merchant, sailor, salesman, tailor]
+knowledge jobs [architect, economist, engineer, historian, journalist, philosopher, programmer, prophet, scientist, teacher]
+leaders [ceo, captain, chief, coach, conductor, duke, dictator, don, emperor, general, king, leader, maharajah, manager, mayor, prince, princess, president, principal, pope, queen, sultan]
+medical [cardiologist, doctor, dietician, ent, gerontologist, medic, nurse, neurologist, oncologist, opthamologist, osteopath, pharmacist, psychiatrist, psychologist, proctologist, paramedic, surgeon, shaman]
+athletes [athlete, acrobat, boxer, bodybuilder, cyclist, gymnast, runner, racer, swimmer]
+sciences [cosmologist, chemist, geologist, mathematician, microbiologist, physicist, zoologist]
+spiritual [chaplain, calyph, guru, monk, nun, oracle, pope, priest, pastor, prophet, paladdin, reverend, rabbi, templar]
+service jobs [bartender, detective, fireman, lawyer, nanny, plumber, police, politician, postman, priest, pilot, spy, sheriff]
+fighters [fighter, guard, hunter, knight, mercenary, ninja, samurai, soldier, security, warrior]
+entertainers [author, actor, artist, ballerina, bard, comedian, clown, jester, musician, mime, magician, sculptor]
+criminals [assassin, arsonist, bootlegger, criminal, conman, drug dealer, hacker, killer, mobster, outlaw, prisoner, pirate, serial killer, thief, terrorist]
+}
+
+people
+{
+politicians [atilla the hun, caesar, churchill, elizabeth ii, hirohito, joan of arc, kennedy, lincoln, lenin, martin luther king, mandela, nixon, napoleon, obama, roosevelt, spartacus, trump, thatcher, washington]
+villains [al capone, booth, bundy, bin laden, genghis khan, gacy, hitler, husein, mussolini, manson, nero, napoleon, oswald, rasputin, stalin, vlad the impaler]
+scientists [bohr, curie, copernicus, da vinci, darwin, einstein, edison, eueler, florence nightingale, gauss, galileo, hubble, hawking, heisenberg, kepler, liebnitz, newton, pythagoras, turing, tesla, von neumann, watson & crick]
+philosophers [kant, lao tzu, marx, nietszche, socrates]
+entertainers [chaplin, eastwood, houdini, james brown, michael jackson, madonna, monroe, michael crichton, prince, rick james, ray charles, spielberg, stephen king, shakespeare]
+superheroes [antman, aquaman, batman, captain america, daredevil, goku, ironman, neo, obi wan, superman, spiderman, skywalker, thor, vegeta, wonderwoman, x-men, yoda]
+supervillains [agent smith, darth vader, freddie krueger, joker, lex luthor, loki, magneto, pennywise, silver surfer, sauron, t1000]
+famous [ali, bolt, columbus, cooke, evil kaneevil, edmund hilary, guttenburg, hulk hogan, megallan, neil armstrong, oj simpson, tyson, walter kronkite, yager, yuri gargarin]
+dieties [buddha, god, jesus, krishna, kali, mohammed, sheeva, vishnu]
+characters [arthur, boba fet, c3p0, chewbacca, columbo, dracula, ewok, frankenstein, gi joe, golem, gandalf, harry potter, james bond, jack sparrow, jabba, kirk, leia, lando, merlin, picard, robin hood, r2d2, sherlock, solo, sisko]
+religious figures [buddha, dali lama, elron l hubbard, gandhi, jesus, lao tzu, mohammed, moses, pope john paul ii, theresa]
+entrepreneurs [buffet, branson, bezos, disney, ford, gates, hughes, jobs, musk, page & brynn, ray kroc, rockefeller, versace, zuckerberg]
+fictional creatures [alien, bigfoot, bogey man, centaur, cyclops, cerberus, dwarf, dragon, easter bunny, elf, ent, fairy, gargoyle, genie, harpy, icarus, kraken, minotaur, mermaid, medusa, monster, mummy, necromancer, orc, pegasus, paladin, santa, succubus, superhero, tooth fairy, troll, unicorn, vampire, valkyrie, witch, wizard, werewolf, zombie]
+ethereal creatures [angel, banschee, cherub, cthulu, devil, demon, ectoplasm, ghost, grim reaper]
+}
+
+groups
+{
+groups [army, committee, congress, company, collective, cult, family, family tree, firing squad, group, hells angels, majority, minority, mob, me, market, orchestra, people, party, society, stock exchange, them, un, we, you]
+religion [atheism, buddhism, christianity, hinduism, judaism, muslim, satanism, shinto, scientology, shamanism, taoism, wiccan]
+departments [cia, department, fbi, homeland security, irs, justice, nasa, nsa, parks and recreation, treasury]
+fictional [borg, cylons, crusaders, fellowship of the ring, jedi, justce league, klignons, martians, orcs, protoss, starfleet, sith, zerg]
+societal [aboriginee, beduins, barbarians, cossacks, eskimos, huns, incas, jewish, khoi san, mayans, mongols, mesopotamians, nomads, rome, spartans, tartars, vikings, visigoths]
+organizations [amish, army, cult, democrats, doctors without borders, free masons, green peace, gang, hells angels, maga, mafia, nazis, peta, republicans, spanish inquisition, taliban, un]
+factions [ascetists, borg, cylons, conformists, cynics, democrats, eskimos, elitist, fanatics, isolationists, idealists, jedi, justice league, luddites, moderates, misanthrope, protoss, pragmatists, puritan, pacificist, republicans, radicals, revolutionaries, realists, racist, starfleet, survivalist, transhumanists, tradionalists, xenophobes, zerg]
+governance [authoritarians, anarchists, aristocrats, authoritarian, conservatives, capitalists, communists, fascists, liberals, libertarians, meritocrats, nationalists, plutocrats, socialists, theocrat]
+rivalries [axis vs. allies, battle of the sexes, crips vs. bloods, coke vs. pepsi, east vs. west, foreman vs. ali, good vs. evil, jobs vs. gates, man vs. nature, spy vs. spy, shirts vs. skins, yankees vs. confederates]
+relations [aunt, brother, boss, cousin, counterpart, contemporary, dad, enemy, elder, friend, granddad, grandmom, inferior, me, mom, peer, relation, self, sister, suboordinate, superior, stranger, they, teacher, uncle, we, you]
+ranks [admiral, corporal, chief, commander, captain, colonel, ensign, general, lieutenant, major, marshall, private, sergeant]
+military [army, company, division, military, platoon, squad, team]
+companies [apple, american express, amd, bethesda, boeing, company, cnn, dolce & gabbana, ea games, enron, fedex, harley davidson, ibm, intel, jack daniels, kfc, microsoft, mcdonalds, nintendo, nike, nvidia, paramount, pizza hut, rolex, sega, samsung, subway, starbucks]
+websites [amazon, dropbox, ebay, facebook, google, imdb, netflix, napster, pirate bay, twitter, website, wikipedia, youtube]
+}
+
+physiology
+{
+anatomy [arm, brain, back, bone, blood, chest, eye, ear, head, heart, hand, hair, joint, leg, mouth, muscle, nose, nails, organ, posterior, skull, skin]
+body systems [circulatory, digestive, immune, muscalar, nervous, reproductive, skeletal]
+senses [hear, hunch, look, premonition, sense, see, taste, touch, telepathy]
+disabilities [blind, crippled, disability, deaf, dyslexia, impotence, paralysis]
+diseases [althziemers, aids, arthritis, allergy, acne, addiction, anthrax, asthma, burns, botchulism, baldness, cancer, covid, chills, disease, diahhrea, disability, dandruff, dysentery, ebola, epilepsy, flu, fever, gangrene, gastroenteritis, heart attack, halitosis, infection, ibs, overdose, obesity, parasites, pneumonia, rabies, starvation, stroke, ulcer]
+symptoms [aches, allergy, blisters, bruises, chills, cramps, diahhrea, dizziness, fever, fatigue, flatulence, itchiness, photosensitivity, runny nose, symptom, withdrawls]
+death [asphyxiation, boedom, blunt-force trauma, car accident, conflaguration, coronary, cancer, disease, electrocution, exsanguanation, gunshot, infection, overdose, poisoning, senescence, strangulation, starvation]
+ageing [age, adult, ancient, baby, child, fetus, immortal, middle aged, old, supercemtarian, toddler, teenager, young adult]
+biology [biology, bacteria, cell, dna, evolution, life, mitochondria, rna, virus]
+}
+
+arts
+{
+communication [announcement, bible, call, code, diagram, email, hierglyphics, language, lie, map, message, oath, prayer, promise, smoke signals, sign language, symbols, story, tattoo, talk, typing, truth, writing, words]
+genres [action, animated, adventure, comedy, drama, fantasy, horror, historical, musical, romance, science fiction, western]
+computer games [asteroid, c&c, donkey kong, doom, duke nukem, dance revoolution, fifa, fallout, final fantasy, guitar hero, gta, kings quest, mario, minecraft, mortal kombat, nfs, pong, pacman, quake, sim city, sims, space quest, skyrim, starcraft, sonic, solitaire, tomb raider, tetris, wolfenstein, wow, zelda]
+illustrative [charcoal, crayons, clay, chalk, dye, graffiti, highlighter, ink, pencil, pen, paint, pastels, pigment, stain, wax]
+music [blues, country, classical, edm, gospel, jazz, metal, opera, pop, rock, rap, reggae]
+arts [art, drawing, mosaic, painting, poem, performance, photo, sculpture, statue]
+musical instruments [banjo, bagpipe, bongo, digiridoo, drums, electric guitar, flute, guitar, gong, harp, horn, harmonica, keytar, organ, piano, saxaphone, sitar, synthesizer, theraman, trumpet, ukelele, violin, xylophone]
+colours [black, blue, brown, grey, green, orange, pink, purple, red, white, yellow]
+bands [acdc, beatles, black sabbath, bb king, beethoven, bach, bob marley, doors, deep purple, green day, james, led zepplin, metallica, mozart, pink floyd, queen, rolling stones, spice girls, sex pistols]
+films [aliens, bladerunner, back to the future, blade, casablanca, ghostbusters, godfather, gone with the wind, it, indiana jones, jaws, jurassic park, lord of the rings, matrix, nightmare on elm str, psycho, robocop, rocky, rocky horror, star wars, silence of the lambs, terminator, toy story, weekend at bernies]
+tv [american idol, animal planet, breaking bad, battlestar galactica, cheers, csi, law & order, prison break, star trek, sopranos, south park, top gear, walking dead, x-files]
+}
+
+recreational
+{
+sports [archery, bodybuilding, basketball, boxing, cycling, darts, football, fencing, gymnastics, hiking, pool, polo, running, racing, sport, swimming, soccer, snowboarding, surfing, skiing, tennis, volleyball, wrestling]
+hobbies [collecting (stamp & coin), camping, dancing, fishing, hiking, knitting, origami, reading, skydiving, travelling, whittling]
+occasions [april fools, award ceremonies, birthday, christmas, earth day, election day, fourth of july, festivals, halloween, new years, olympics, st. patricks, spring, thanksgiving, valentines, vacation]
+events [birth, christening, coronation, celebration, event, execution, funeral, graduation, picnic, promotion, retirement, visit, wedding]
+toys [army men, baloon, chewtoy, doll, drone, etch n sketch, frisbee, jack in a box, jumping castle, kaleidoscope, kite, lego, playdough, paintball gun, pinata, paper plane, pogo, potato head, rattle, rc car, slinky, top, teddy bear, trampoline, watergun]
+computer games [candy crush, doom, need for speed, pong, pacman, sims, sim city, starcraft, supermario, the elder scrolls]
+games [action figures, cluedo, chess, crooswords, dungeons and dragons, dominoes, game, hide and seek, marco polo, majhong, playcards, puppet, pinball, pictionary, paintball, quiji board, rock paper scissors, shoots and ladders, sudoku, trivial pursuit, tag]
+}
+
+inventions
+{
+inventions [3d printer, adverts, assembly line, automation, battery, compass, invention, ladder, loom, makeup, medicine, organ transplant, periscope, printing machine, printing press, sextant, tape]
+medical equipment [antibiotics, antiseptic, bandage, birth control, cast, ecg, life support, pill, painkillers, syringe, stethescope, scalpel, thermometer, vaccine]
+tools simple [anvil, button, coil, cloth, handle, pipe, plank, paddle, ruler, shovel, spring, sandpaper, tool, thread, wheel]
+splitting tools [axe, blade, chainsaw, knife, sickle, scissors, shears, saw]
+binding tools [chain, duct tape, glue, hammer, net, nail, rope, screw, string, thread]
+machines [clamp, drill, machine, pulley, pump, propeller, scale, winch]
+navigation [atlas, cartography, compass, gps, gyroscope, map, radar, sextant, sonar]
+ancient weapons [arms, arrow, bow, catapault, cannon, dagger, foil, flail, katana, lance, mace, musket, poison, sword, sabre, spear, shiruken, trap, trident, weapon, whip]
+current weapons [artillery, aa, bullet, biological weapon, blaster, chemical weapon, gun, handgun, icbm, light saber, machine gun, revolver, torpedo, taser]
+explosives [atom bomb, bomb, dynamite, depth charge, grenade, hydrogen bomb, molotov cocktail, mine]
+communication technology [fax, fibre optics, modem, mail, smartphone, telegram, wireless]
+communication [announcement, bible, call, diagram, email, fact, hierglyphics, language, lie, message, oath, prayer, promise, smoke signals, sign language, symbols, story, tattoo, talk, typing, writing, words]
+clocks [atomic clock, calender, clock, countdown, carbon dating, date, eggtimer, hourglass, smartwatch, sundial, watch]
+commerce [accounting, banking, bitcoin, commerce, coin, credit, credit card, debit, ecommerce, economy, goods, globalization, money, product, stock, service, trade]
+electronics [keyboard, microchip, mouse, resistor, switch, semiconductor, superconductor, screen, transistor, vacuum tube, wire]
+computer technology [abacus, calculator, computer, laptop, network, pc, printer, quantum computer, supercomputer, satellite, vr]
+robotics [assembly line, android, ai, cyborg, data, nanobot, robot, terminator]
+software technology [barcode, binary, database, email, firewall, gui, internet, multitasking, os, opcode, programming language, spreadsheet, social media]
+}
+
+technology
+{
+computer technology [abacus, android, ai, calculator, computer, cyborg, keyboard, laptop, microchip, mouse, network, nanobot, pc, printer, quantum computer, robot, supercomputer, satellite, transistor, vr, wire]
+communication technology [fax, fibre optics, letter, modem, radio, radar, smartphone, sonar, telegram, telephone, wireless]
+computer games [candy crush, doom, need for speed, pong, pacman, sims, sim city, starcraft, supermario, the elder scrolls]
+software technology [barcode, binary, database, email, firewall, gui, internet, os, opcode, programming language, spreadsheet, social media]
+sound technology [amp, alarm, gramaphone, hearing aid, looudspeaker, microphone, radio, sound, speaker, telephone]
+digital storage [blueray, barcode, cd, dvd, floppy disk, magnetic harddrive, magnetic card, punch card, qr code, rfid, ssd, tape, usb, vinyl]
+}
+
+tools
+{
+tools simple [anvil, button, coil, funnel, filter, gear, handle, pipe, plank, paddle, ruler, spring, tool, thread, wheel]
+splitting tools [axe, blade, sickle, scissors, shears]
+binding tools [chain, duct tape, glue, net, rope, string, thread]
+machines [clamp, machine, pulley, pump, propeller, scale, winch]
+garage tools [chainsaw, drill, hammer, nail, pliers, saw, screwdriver, screw, sandpaper, tape measure]
+garden tools [hose, lawnmower, pitchfork, rake, shovel]
+}
+
+weapons
+{
+ancient [arms, arrow, bow, catapault, cannon, dagger, foil, flail, katana, lance, mace, musket, poison, sword, sabre, spear, shiruken, trap, trident, weapon, whip]
+current [artillery, aa, bullet, biological weapon, blaster, chemical weapon, gun, handgun, icbm, light saber, machine gun, revolver, torpedo, taser]
+explosives [atom bomb, bomb, c4, dynamite, depth charge, fireworks, grenade, hydrogen bomb landmine, molotov cocktail, napalm]
+}
+
+events
+{
+dates [april fools, award ceremonies, birthday, christmas, earth day, election day, fourth of july, festivals, halloween, new years, olympics, st. patricks, spring, thanksgiving, valentines, vacation]
+occassions [baptism, birth, coronation, celebration, event, eclipse, funeral, graduation, meteor shower, picnic, promotion, retirement, solar flare, visit, wedding]
+historical [apocalypse, big bang, black death, cold war, great flood, heat death, ice age, industrial revolution, killer meteor, out of africa, pangea, primordial soup, rennaisance, space travel, trinity rxplosion, vesuvius eruption, ww1, ww2]
+}
+
+mental
+{
+mind [concept, category, dilemna, experiment, hypothesis, heirarchy, intelligence, intuition, idea, knowledge, model, proof, right, system, taxonomy, theory, wrong]
+emotions [angry, bored, confusion, confident, disgust, excited, happy, love, proud, sad, scared]
+aspects [aspect, body, emotions, mind, personality, soul, thoughts]
+Psychotropics [anti-depressants, anti-psychotcs, aphrodisiacs, depressants, deliriants, hallucinogenic, hypnotics, mood-stabilizers, mood-enhancers, nootropic, psychadelics, placebo, stimulants, sedatives, tranquilizers]
+Neuochemicals [5htp, choline, dopqamine, estrogen, gaba, hgh, hormone, oxytocin, seratonin, steroids, testosterone]
+}
+
+behaviours
+{
+actions [act, listen, pray, play, run, read, sleep, sit, talk, walk, work]
+reactions [be, change, do, dont, fail, give, go, join, keep, leve, move, react, respond, reflect, stay, say, succeed, think, take, try]
+behaviour [avoid, cry, fight, hide, habit, laugh, shout, seek, want]
+aspects [aspect, body, emotions, mind, personality, soul, thoughts]
+traits [(dis)honest, (dis)loyal, (un)forgiving, (im)patient, (un)trustworthy, (un)kind, (un)fair, (non)judgemental, (hot)level-headed, (dis)obedient, fault, humble, proud, stubborn, trait, virtue, vengeful]
+emotions [angry, amazed, bored, confusion, confident, disgust, excited, happy, love, proud, sad, scared]
+sins [adultery, abuse, gluttony, greed, jealousy, lust, murder, pride, sin, sloth, theft, wrath]
+mind [(un)certainty, dream, feelings, intuition, intelligence, knowledge, meaning, processing, possibility, probability, purpose, right, truth, wrong, wonder]
+vices [alcoholism, avoidance, bipolars, drug addiction, depression, depersonalization, mpd, phobias, paranoia, ptsd, psychopathy, schizophrenia, sociopathy, thrill seeking]
+}
+
+concepts
+{
+force [coalpower, chemical, dark energy, energy, electricity, explosion, entropy, force, gravity, geothermal, hydroelectric, implosion, kinetic, magic, nuclear, potential, pressure, solar, weak/strong electromagnetic, windpower]
+sets [contains, collect, closed, compact, dense, equivalent, equals, for, group, in, is, like, not in, of, open, partition, set, subset, superset, unlike]
+shapes [angle, curve, circle, cylinder, cube, ellipse, edge, hexagon, line, octagon, point, polygon, pentagon, pyramid, ring, rectangle, rhombus, square, sphere, triangle, trapezium, vertex]
+time [ancient, century, day, decade, future, hour, later, millenium, minute, month, night, now, never, old new, past, present, second, season, soon, time, week, year]
+patterns [chaos, checkered, graded, monotonic, pattern, repeating sequence, randoms, sequence, stripped, spotted]
+decades [1900s, 1910s, 1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s, decade]
+ages [bronze, iron, industrial, information, middle, rennaisance, stone, space]
+movement [accelerate, contract, decelerate, expand, motion, move closer, move farther, stop, start]
+arithmetic [add, commutativity, divide, distribution, equal, multiply, reflexivity, subtract, transitivity]
+work [chore, career, calling, duty, magnum opus, masterpiece, occupation, project, task, vocation, work]
+limits [boundary, barrier, existence, infinity, limit, minimum, maximum, perimeter, record]
+directions [away, down, east, forward, left, north, over, right, reverse, south, through, toward, up, under, west]
+amounts [amount, all, any, crowd, count, even, enumerate, few, group, less, most, more, none, one, odd, some, sample]
+algebra [dimension, function, matrix, space, variable, vector]
+calculus [differentiation, derivative, integration, integral, partial derivative]
+topology [fold, manifold, mapping]
+position [at, around, center, inside, outside, off-center, overlapping, part-way]
+orders [category, heirarchy, order, paradigm, system, taxonomy]
+constructs [construct, chart]
+processes [adaptation, contradiction, correction, concept, cause, dilemna, error, effect, hypothesis, induction, idea, learning, model, outcome, process, proof, paradox, recall, simulation, synthesis, theory]
+magnitudes [centi, deca, exa, giga, kilo, magnitude, micro, milli, mini, mega, nano, pico, peta, tera]
+evaluation [experiment, evaluate, quizz, test]
+waves [alpha, beta, frequency, gamma, infrared, lightwave, micro-wave, radio-wave, soundwave, ultraviolet, ultrasonic, vibration, visible, wave]
+lights [alpha, beta, darkness, frequency, gamma, infrared, light, lightwave, micro-wave, projection, radio-wave, shadow, soundwave, ultraviolet, ultrasonic, vibration, visible, wave]
+arrangement [column, cluster, collection, heap, list, pile, pairing, row, stack, tuplet]
+}
+
+Measures
+{
+nature [acceleration, area, distance, density, energy, force, frequency, intensity, mass, power, torque, time, temperature, velocity, volume]
+measures [ampere, avogadro constant, angstrom, camdela, coulomb, degree, hertz, joule, kilogram, kelvin, lumen, light year, lux, measure, meter, mole, moh, newton, ohm, pascal, ph, quantity, radians, rpm, siverts, second, volt, watt]
+measures [acceleration, area, distance, density, energy, force, frequency, intensity, measure, mass, power, torque, time, temperature, velocity, volume]
+quantities [amount(little; lots), distance(far; close), frequency(often; seldom) heat(hot; cold), quantity, speed(fast; slow)]
+frequency [always, common, never, often, occasionally, periodically, regularly, rare, seldom, specially, unique]
+instruments [altimeter, atomic clock, barometer, calendar, calipers, clock, dyno, eggtimer, geiger counter, hourglass, instrument, litmus paper, mass spectrometer, measuring cylinder, metronome, odometer, oscilloscope, radar, ruler, scale, sonar, speedometer, sundial, thermometer, tuning fork, veneer, voltmeter, watch, weights, windsock]
+boundaries [boundary, edge of the world, event horizon, glass ceiling, heliotrope, hard consciousness, known universe, lightspeed, life after death, perimeter, record, sound barrier]
+achievements [best, most improved]
+}
+
+communication
+{
+vocabulary [book, chapter, letter, paragraph, page, sentence, text, verse, word]
+communication [argue, agree, discuss, disagree, deceive, greet, inform, instruct, persuade, talk]
+language [analogy, antonym, description, gestures, metaphor, poems, signs, signals, symbol, simile, story, synonym, syntax, verbal]
+language types [factual, literal, metaphorical, narrative, speech, sign language]
+languages parts [article, adjective, adverb, conjunction, noun, pronoun, preposition, verb]
+questions [how, question, who, what, where, when, why]
+}
+
+items
+{
+appliances [airconditioner, alarm, blender, burgler alarm, coffee machine, dishwasher, fridge, freezer, fire alarm, fan, heater, iron, kettle, microwave, oven, stove, tumble dryer, vacuum, vending machine, washing machine]
+furniture [bed, beanbag, bench, counter, cot, coatrack, chair, carpet, curtains, deckchair, electric chair, futon, lamp, linen, pew, rug, stool, sofa, swing, seat, saddle, table, wheelchair]
+plumbing [bathroom, bath, drain, geyser, gutter, irrigation, plunger, shower, sink, sewer, toilet, tap]
+household items [brush, broom, deoderant, dustpan, garbage, mop, perfume, soap, shampoo, sponge, towel, toilet paper]
+cutlery [cutlery, can opener, fork, knife, ladle, rolling pin, spoon, spatula, scoop, spork, whisk]
+upholstery [curtain, carpet, cloth, fabric, linen, matt, magic carpet, rug, textile]
+valuables [deed, earrings, gem, heirloom, jewelry, money, necklace, pearls, prize, treasure, will]
+}
+
+Descriptions (How)
+{
+operands [add, divide, mulltiply, subtract]
+}
+
+Events (When)
+{
+decades [1900s, 1910s, 1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s]
+centuries [16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th]
+ages [bronze, dark, enlightenment, iron, industrial, information, middle, rennaissance, stone, space]
+eras [cretaceous, devonian, jurassic, precambrian, trirassic]
+recognition [award, celebrate, confer, commemorate, congratulate, honour, recognition, record]
+awards [award, blue ribbon, darwin award, emplyee of the month, fields medal, grammy, guiness record, heavyweight championship belt, honorary member, iron cross, laurels, lifetime achievement, medal of honour, nobel prize, oscars, olympic medal, plaque, purple heart, reward, statue]
+}
+
+Objects (What)
+{
+particles [antimatter, atom, boson, dark matter, dipole, electron, ion, isotope, lepton, meson, neutron, photon, positron, proton, quark, tachyon]
+types [acid, alloy, atom, base, catalyst, compound, conductor, element, gas, insulator, liquid, mineral, mixture, molecule, oxidizer, plasma, reducer, semiconductor, solid, solvent, superconductor]
+elements [oxgen, sodium]
+identifier [badge, certificate, credential, contents, dna, fingerprints, index, identification, license, passport, title, tracks]
+compounds [alcohol, ammonia, asbestos, bakelite, bleach, brass, carbon monoxide, cfcs, co2, cyanide, dolomite, fcl, gasoline, hcl, hydrogen peroxide, laughing gas, methane, ozone, rust, salt, steel, sulphuric acid, thc, urea]
+materials [alloy, bark, bitumen, brick, cardboard, cellulose, cement, ceramic, charcoal, clay, coal, compound, concrete, cotton, crystal, enamel, fabric, flint, glass, glue, granite, keratin, kevlar, lime, limestone, metal, mixture, nylon, obsidian, oil, ore, paper, plywood, polyster, plastic, pvc, rubber, sand, silk, stone, talcum, teflon, wax, wood, wool]
+components [anvil, button, bars, board, blade, bearing, bolt, chain, cloth, dye, elastic, funnel, fulcrum, gear, hinge, handle, lens, lever, magnet, mesh, nut, nail, paint, pipe, pedal, paddle, peg, pin, plank, pulley, rod, rope, strap, screw, shaft, switch, stick, stake, spring, string, tape, winch, wire, wedge, wheel]
+machines [battery, bell, boiler, clock, capacitor, chainsaw, drill, forge, furnace, filter, fan, grindstone, loom, mill, pump, printing press, pendulum, resistor, transformer, welder]
+tools [axe, arrow, bow, brush, dart, explosive, fork, glasses, hammer, hook, knife, match, net, needle, pen, pencil, pickaxe, pliers, shears, scissors, saw, sickle, spear, screwdriver, spoon, sieve, sandpaper, tnt, vice]
+measurers [abacus, accelerometer, altimeter, atomic clock, barometer, calender, calipers, calculator, calorie counter, clock, compass, competition, doomsday clock, dynograph, ecg, eggtimer, exam, eye test, geiger counter, hourglass, iq test, kitchen scale, litmus paper, mass spectrometer, measuring tape, metronome, microscope, motion sensor, mri, odometer, pcr, pet scan, photometer, polygraph, questionaire, radar, ranking, ruler, scale, scoreboard, seizmometer, speedometer, spirit level, sonar, stopwatch, sundial, telescope, thermometer, veneer, voltmeter, watch, windsock, x-ray]
+containers [ashtray, bag, backpack, box, bowl, barrel, basket, beaker, bottle, briefcase, bubble, bucket, bodybag, bin, cage, can, case, cast, cavern, cell, chalice, chamber, cocoon, coffin, compartment, couldron, crate, cubicle, cup, cupboard, container, cover, chest, closet, dumpster, drawer, dish, envelope, flask, fireplace, folder, goblet, grave, handbag, hole, housing, husk, jacket, jug, jar, keg, layer, ledge, mould, mug, packet, package, pan, partition, pipette, pocket, peal, petri dish, pipe, pit, plate, pot, purse, pod, pouch, room, satchel, sheath, shelf, shell, silo, safe, sack, skip, sleeve, suitcase, tomb, toolbox, trough, trunk, tub, toobox, urn, vat, vessel, vial, vault, wallet, well, wineglass, womb, wrapping, wrapper]
+liquid containers [bottle, bubble, beaker, bowl, barrel, cup, can, dish, flask, jar, pot, pan, plate, reservoir, vase]
+luggage [bag, briefcase, chest, case, closet, cupboard, drawer, duffelbag, kist, package, parcel, suitcase]
+weapons [automatic weopon, artillery, atom bomb, bayonet, ballista, baton, bullet, bazooka, bomb, bioweapon, batlith, cutlass, crossbow, catapault, canon, cannon, dagger, dirty bombpoison, deathray, deathstar, flail, flamethrower, gunpowder, gun, grenade, hydrogen bomb, icbm, katana, landmine, light saber, lasergun, maul, mace, musket, machine gun, missiles, molotov cocktail, mustard gas, nunchucks, nitroglycerin, neurotoxin, napalm, pellet gun, rifle, railgun, sword, schimtar, scythe, shiv, sling, sniper rifle, shotgun, smartbomb, trident, throwing star, tazer, torpedo, v2, whip, wand]
+light [aurora, bulb, campfire, candle, candelabra, chandelier, double rainbow, darkness, fibre optics, glow, lamp, laser, led, lens, light, micrsoscope, mirror, neon light, prism, projection, rainbow, spark, shadow, telescope, uv lamp]
+}
+
+Places (Where)
+{
+Structures [antenna, barn, billboard, birdhouse, bridge, celltower, chicken coup, chimney, crane, fence, ferris wheel, fountain, guardtower, kennel, lamppost, lightning rod, mailbox, mast, monument, outhouse, parking lot, pier, pylon, radiotower, rollercoaster, scaffold, shed, silo, smokestack, stairway, treehouse, tunnel, well, weathervane, windmill]
+Landmarks [area 51, brandenburg gate, bhut jalifa, big ben, christ redeemer, colloseum, eiffel tower, great wall, kremlin, lhc, pyramid, petra, piza tower, parthenon, sphinx, statue of liberty, suez canal, stonehenge, taj mahal]
+Natural [amazon forest, aurora, bermuda triangle, challenger deep, dead sea, grand canyon, mt. everest, mt. fuji, nile river, table mountain, uluru, vesuvius]
+Towns [alexandria, amsterdam, athens, babylon, berlin, cairo, chernobyl, chicago, capitals (below countries), damascus, florence, hiroshima, hollywood, hong kong, jerusalem, las vegas, london, milan, moscow, new york, paris, pompei, pomplona, rome, roswell, tokyo, washington]
+countries [australia, austria, brazil, congo, canada, caribbean, china, columbia, costa rica, cuba, egypt, finland, france, germany, greece, india, iran, iraq, ireland, israel, italy, jamaica, japan, kenya, madagascar, mexico, namibia, netherlands, new zealand, nepal, norway, peru, poland, romania, russia, scotland, south africa, south korea, spain, switzerland, taiwan, tibet, turkey, uae, uk, usa, vatican, wales]
+nations [aboriginees, arabs, aztecs, athenians, celts, cherokee, cossacks, eskimos, francs, gauls, huns, incas, inuits, israelites, khoi san, mesopotamians, mongols, myans, normans, nubians, ottomans, persians, phoenecians, romans, saxons, spartans, slavs, soviets, summarians, tartars, thracians, vikings, visigoths]
+regions [africa, alaska, antarctica, arctic, asia, california, campbelltown, europe, florida, gaza, hawaii, highlands, himalayas, islay, lowlands, mediterranean, middle-east, north america, oceania, rocky mountains, sahara, siberia, south america, speyside, texas, transylvania]
+region types [arid, alpine, grassland, polar, savannah, scrub, semi-arid, sub-tropical, temperate, tropical, tundra]
+}
+
+Purposes (Why)
+{
+forces [electromagnetic, nuclear, strong, weak]
+energy [chemical, electrical, kinetic, potential]
+properties [acid, additive, base, catalyst, conductor, converter, gas, indicator, inverter, liquid, preservative, reflecter, resistor, semiconductor, solid, stabilizer, superconductor, transistor]
+actions [begin, change, choose, continue, clarify, create, end, give, make, move, pause, repeat, resume, sense, start, take]
+reactions [absorption, adsorption, catalization, concentration, condensation, conduction, contraction, convection, decay, dilution, diffusion, dissipation, emulsification, endothermic, entropy, evaporation, exothermic, expansion, fission, fusion, neutralization, osmosis, oxidation, radiation, reduction, saturation, separation, sublimation, substitution]
+results [absolute, counterintuitive, definite, equivalent, failure, false, incoherent, inconclusive, intuitive, negative, neutral, non-sequitir, predictable, positive, relative, success, true, unchanged, unknowable, unpredictable]
+purposes [alter, acceleration, amplification, chaos, complicate, conclusion, destruction, disorder, enhance, equilibrium, entropy, evolution, isolation, observation, order, preservation, reduction, regulation, simplify, standardization, transformation, unity, variance]
+motives [beliefs, conventions, defaults, emotions, force, fundamental laws, instinct, rules]
+}
+
+TO DECIDE
+{
+miscellaneous [altar, answer, anchor, ash, bleach/naoh, bell, bomb squad, crop circle, cross, condensation, convection, conduction, concentration, contractiondemonstration, crystal ball, clean, calibrate, cable car, configuration, dry ice, diffusion, dilation, debris, dust, dirt, dirty, extinguisher, error, fireworks, firing squad, fly swatter, flag, filth, genius, garbage, habit, junk, key, loser, lock, mess, osmosis, practice, poor, pot pourri, pollution, question, quizz, radiation, rich, rubble, residue, remains, rot, ruins, rust, sublimation, stain, sewage, safari, settings, traffic, test, tour, value demonstration, winner, web, weight, waste, weightwind sock]
+}
+

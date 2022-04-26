@@ -1,0 +1,20 @@
+﻿basics
+{
+basics {earth, air, water, fire}
+moisture {dew, frost, ice, snow, blizzard, hail, rain, storm, flood, cloud, steam, hurricane, stream, river, waterfall, lake, moat, spill, droplet, whirlpool, delta }
+atmosphere {wind, sky, ozone, cloud, tornado, duststorm, mirage, stratosphere, mesosphere, ionosphere, aurora}
+}
+
+materials
+{
+materials {rubber, plastic, metal, alloy, brick, clay, concrete, cement, glass, crystal, wood, paper, cardboard, pvc, asbestos}
+metals {steel, tungsten, iron, aluminium, copper, silver, gold, platinum, tin, zinc, lead, mercury, titanium, nickel, chrome, brass}
+radioactive {plutonium, uranium, americium, europium, caiifornium, francium, germanium, einsteinium, curium, radium, radon}
+elements {oxygen, hydrogen, helium, chlorine, flourine, sodium, potassium, calcium, lithium, magnesium, phosphorus, nitrogen, sulphur, carbon, silicon, neon, arsenic}
+}
+
+fauna
+{
+livestock {livestock, cow, dog, cat, pig, horse, donkey}
+animals {animal, boar, llama, mouse, rat, camel, elephant, hippo, fox, wolf, lion, tiger, liger, monkey, moose, gorilla, panda, zebra}
+}

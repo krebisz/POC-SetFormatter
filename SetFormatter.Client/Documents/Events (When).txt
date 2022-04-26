@@ -1,0 +1,15 @@
+decades
+==================================
+1900s, 1910s, 1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s
+
+centuries
+==================================
+16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th
+
+ages
+==================================
+stone, bronze, iron, dark, middle, rennaissance, enlightenment, industrial, space, information
+
+eras
+==================================
+precambrian, devonian, cretaceous, jurassic, trirassic, 

@@ -1,0 +1,35 @@
+Structures
+==================================
+antenna, barn, billboard, birdhouse, bridge, celltower, chicken coup, chimney, crane, fence, ferris wheel, fountain, guardtower, kennel, lamppost, lightning rod, mailbox, mast, monument, outhouse, parking lot, pier, pylon, radiotower, rollercoaster, scaffold, shed, silo, smokestack, stairway, treehouse, tunnel, well, weathervane, windmill
+
+
+
+Landmarks
+==================================
+pyramid, sphinx, christ redeemer, colloseum, eiffel tower, petra, great wall, statue of liberty, piza tower, parthenon, brandenburg gate, kremlin, taj mahal, bhut jalifa, lhc, suez canal, big ben, stonehenge, area 51, petra,  
+
+Natural
+==================================
+bermuda triangle, dead sea, nile river, amazon forest, mt. everest, mt. fuji, uluru, grand canyon, aurora, table mountain, challenger deep, vesuvius
+
+Towns
+==================================
+alexandria, amsterdam, athens, babylon, berlin, cairo, chernobyl, chicago, damascus, florence, hiroshima, hollywood, hong kong, jerusalem, las vegas, london, milan, moscow, new york, paris, pompei, pomplona, rome, roswell, tokyo, washington, capitals (below countries)
+
+countries
+==================================
+australia, austria, brazil, congo, canada, caribbean, china, columbia, costa rica, cuba, egypt, finland, france, germany, greece, india, iran, iraq, ireland, israel, italy, kenya, jamaica, japan, madagascar, mexico, namibia, netherlands, new zealand, nepal, norway, peru, poland, romania, russia, scotland, south africa, south korea, spain, switzerland, taiwan, tibet, turkey, uae, uk, usa, vatican, wales
+
+nations
+==================================
+aboriginees, arabs, aztecs, athenians, celts, cherokee, cossacks, eskimos, francs, gauls, huns, incas, inuits, israelites, khoi san, mesopotamians, mongols, myans, normans, nubians, ottomans, persians, phoenecians, romans, saxons, spartans, slavs, soviets, summarians, tartars, thracians, vikings, visigoths,
+
+
+regions
+==================================
+africa, alaska, antarctica, arctic, asia, california, campbelltown, europe, florida, gaza, hawaii, highlands, himalayas, islay, lowlands, mediterranean, middle-east, north america, oceania, rocky mountains, sahara, siberia, south america, speyside, texas, transylvania,
+
+
+region types
+==================================
+arid, alpine, grassland, savannah, scrub, semi-arid, sub-tropical, temperate, tropical, tundra, polar 

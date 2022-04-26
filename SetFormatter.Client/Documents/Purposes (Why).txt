@@ -1,0 +1,38 @@
+forces
+==================================
+electromagnetic, nuclear, weak, strong
+
+energy
+==================================
+chemical, electrical, kinetic, potential
+
+
+properties
+==================================
+acid, additive, base, catalyst, conductor, converter, gas, indicator, inverter, liquid, preservative, reflecter, resistor, semiconductor, solid, stabilizer, superconductor, transistor, 
+
+
+actions
+==================================
+begin, change, choose, continue, clarify, create, end, give, make, move, pause, repeat, resume, sense, start, take
+
+
+reactions
+==================================
+absorption, adsorption, catalization, concentration, condensation, conduction, contraction, convection, decay, dilution, diffusion, dissipation, emulsification, endothermic, entropy, evaporation, exothermic, expansion, fission, fusion,  neutralization, osmosis, oxidation, radiation, reduction, saturation, separation, sublimation, substitution,
+
+
+results
+==================================
+absolute, counterintuitive, definite, equivalent, failure, false, incoherent, inconclusive, intuitive, negative, neutral, non-sequitir, predictable, positive, relative, success, true, unchanged, unknowable, unpredictable,
+
+purposes
+==================================
+alter, acceleration, amplification, chaos, complicate, conclusion, destruction, disorder, enhance, equilibrium, entropy, evolution, isolation, observation, order, preservation, reduction, regulation, simplify, standardization, transformation, unity, variance
+
+
+motives
+==================================
+beliefs, conventions, defaults, emotions, force, fundamental laws, instinct, rules, 
+
+
