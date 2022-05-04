@@ -1,5 +1,5 @@
 ﻿
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     partial class TreeForm
     {

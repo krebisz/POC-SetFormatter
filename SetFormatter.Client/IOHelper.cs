@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     public static class IOHelper
     {
@@ -21,8 +21,8 @@ namespace SetFormatterWebClient
 
         public static string GetSubdirectory()
         {
-            string OtherfileDirectoryOut = ConfigurationManager.AppSettings["OtherfileDirectoryOut"];
-            return OtherfileDirectoryOut;
+            string otherfileDirectoryOut = ConfigurationManager.AppSettings["OtherfileDirectoryOut"];
+            return otherfileDirectoryOut;
         }
 
         public static string[] GetFileNames(char separator)
@@ -42,7 +42,7 @@ namespace SetFormatterWebClient
                 filePathExcuded[i] = filePathExcuded[i].Trim();
             }
 
-            string[] fileNames = GetFileNames(filePath, filePathExcuded, SearchOption.AllDirectories).ToArray();
+            string[] fileNames = GetFileNames(filePath, filePathExcuded).ToArray();
 
             return fileNames;
         }
@@ -104,17 +104,17 @@ namespace SetFormatterWebClient
             }
         }
 
-        public static string ReadFileAsStream(string fileName)
+        public static string readFileFromStreamToString(string fileName)
         {
-            string fileContent;
+            string atringData;
 
             using (Stream fileStream = GetFileStream(fileName))
             {
                 StreamReader streamReader = new StreamReader(fileStream, Encoding.UTF8);
-                fileContent = streamReader.ReadToEnd();
+                atringData = streamReader.ReadToEnd();
             }
 
-            return fileContent;
+            return atringData;
         }
 
         public static Stream GetFileStream(string fileName)
@@ -135,14 +135,7 @@ namespace SetFormatterWebClient
 
             string[] dataArray = stringData.Split(new string[] { tag }, StringSplitOptions.None);
 
-            if (dataArray.Length > 1)
-            {
-                dataPortion = dataArray[1];
-            }
-            else
-            {
-                dataPortion = stringData;
-            }
+            dataPortion = dataArray.Length > 1 ? dataArray[0] : stringData;
 
             int start = dataPortion.IndexOf(delimiterStart);
             int end = dataPortion.LastIndexOf(delimiterEnd);
@@ -160,54 +153,6 @@ namespace SetFormatterWebClient
             string fileFullName = fileDirectoryOut + filePrefix + fileName + fileSuffix + fileExtension;
             File.WriteAllText(fileFullName, stringData);
             return fileFullName;
-        }
-
-        public static void WriteStream(string fileName)
-        {
-            string destinationFolder;
-            string fileContents;
-
-            Stream fileStream = GetFileStream(fileName);
-
-            using (var fileReader = new StreamReader(fileStream))
-            {
-                fileContents = fileReader.ReadToEnd();
-            };
-
-            destinationFolder = ConfigurationManager.AppSettings["destinationFolder"] + GetSubdirectory();
-
-            using (var fileStream2 = new FileStream(Path.Combine(destinationFolder, fileName), FileMode.Create))
-            {
-            }
-        }
-
-        public static Stream WriteStreamFromString(string stringData)
-        {
-            MemoryStream stream = new MemoryStream();
-            StreamWriter writer = new StreamWriter(stream);
-            writer.Write(stringData);
-            stream.Position = 0;
-            return stream;
-        }
-
-        public static void DeleteFiles(string[] fileNames)
-        {
-            if (!object.Equals(fileNames, null))
-            {
-                for (int i = 0; i < fileNames.Length; i++)
-                {
-                    string fileName = fileNames[i];
-
-                    try
-                    {
-                        File.Delete(fileName);
-                    }
-                    catch (Exception ex)
-                    {
-                        throw ex;
-                    }
-                }
-            }
         }
 
         #endregion

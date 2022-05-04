@@ -1,9 +1,9 @@
-﻿namespace SetFormatterWebClient
+﻿namespace SetFormatter
 {
     public class Notification
     {
-        public string Message { get; private set; }
-        public MessageType NotificationType { get; private set; }
+        public string Message { get; set; }
+        public MessageType NotificationType { get; set; }
 
         public Notification(string message, MessageType type)
         {

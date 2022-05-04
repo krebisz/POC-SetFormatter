@@ -1,14 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     public partial class TreeForm : Form
     {
@@ -205,16 +201,7 @@ namespace SetFormatterWebClient
 
                 TreeView treeView = (TreeView)Controls.Find(((TreeView)sender).Name, true)[0];
 
-
-
-                if (draggedNodeTree == targetNodeTree)
-                {
-                    UpdateElements(treeView, sourceNode.Name, destinationNode.Name, 2);
-                }
-                else
-                {
-                    UpdateElements(treeView, sourceNode.Name, destinationNode.Name, 4);
-                }
+                UpdateElements(treeView, sourceNode.Name, destinationNode.Name, draggedNodeTree == targetNodeTree ? 2 : 4);
                 //RefreshTreeViews(treeView, true, targetNode);
             }
         }
@@ -372,12 +359,13 @@ namespace SetFormatterWebClient
                 i++;
             }
 
-            TreeNode node = new TreeNode();
-
-            node.Name = idPrefix + "Node" + id.ToString();
-            node.Text = idPrefix + "Node" + id.ToString();
-            node.Tag = id;
-            node.ContextMenuStrip = CreateContextMenu(idPrefix, id);
+            TreeNode node = new TreeNode
+            {
+                Name = idPrefix + "Node" + id.ToString(),
+                Text = idPrefix + "Node" + id.ToString(),
+                Tag = id,
+                ContextMenuStrip = CreateContextMenu(idPrefix, id)
+            };
 
             return node;
         }
@@ -396,7 +384,7 @@ namespace SetFormatterWebClient
 
             TreeContextMenu = new ContextMenuStrip();
             TreeContextMenu.Name = idPrefix + "ContextMenu" + id.ToString();
-            TreeContextMenu.Items.AddRange(new ToolStripMenuItem[] { addLabel, deleteLabel, sortLabel });
+            TreeContextMenu.Items.AddRange(new ToolStripItem[] { addLabel, deleteLabel, sortLabel });
             TreeContextMenu.ItemClicked += new ToolStripItemClickedEventHandler(ContextMenuItem_Click);
 
             return TreeContextMenu;
@@ -592,10 +580,8 @@ namespace SetFormatterWebClient
                 TreeViews[0] = treeTo;  //*NEED TO CREATE CHECK AS TO WHICH IS WHICH*//
                 TreeViews[1] = treeFrom;
 
-                List<Element> SetNew0 = new List<Element>();
-                SetNew0.Add(Sets[0][0]);
-                List<Element> SetNew1 = new List<Element>();
-                SetNew1.Add(Sets[1][0]);
+                List<Element> SetNew0 = new List<Element> { Sets[0][0] };
+                List<Element> SetNew1 = new List<Element> { Sets[1][0] };
 
                 int set0NodeLevel = 0;
                 int set1NodeLevel = 0;
@@ -618,11 +604,9 @@ namespace SetFormatterWebClient
 
         public void GetObjectID()
         {
-            var s = "4d6c5246e447ad3bb4495c17";
-
             Object o = new object();
             
-                        
+            //var s = "4d6c5246e447ad3bb4495c17";                        
             //var query1 =  ObjectId.Parse(s);
             //var query2 = Query.EQ("_id", ObjectId.Parse(s));
         }

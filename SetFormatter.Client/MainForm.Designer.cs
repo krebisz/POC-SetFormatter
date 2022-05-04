@@ -1,4 +1,4 @@
-﻿namespace SetFormatterWebClient
+﻿namespace SetFormatter
 {
     partial class MainForm
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     public class Set
     {
@@ -91,14 +91,7 @@ namespace SetFormatterWebClient
                     }
                 }
 
-                if (indexMin + 1 > stringLength)
-                {
-                    stringNext = string.Empty;
-                }
-                else
-                {
-                    stringNext = stringData.Substring(indexMin + 1, indexMax).Trim();
-                }
+                stringNext = indexMin + 1 > stringLength ? string.Empty : stringData.Substring(indexMin + 1, indexMax).Trim();
 
                 stringData = stringNext;
             }
@@ -117,9 +110,6 @@ namespace SetFormatterWebClient
 
             while (stringData.Length > 0)
             {
-                string stringCurrent = string.Empty;
-                string stringNext = string.Empty;
-
                 int indexOpen = stringData.IndexOf(delimiters[0]);
                 int indexClose = stringData.IndexOf(delimiters[1]);
 
@@ -364,14 +354,7 @@ namespace SetFormatterWebClient
 
             string[] stringArray = stringData.Split(new string[] { tag }, StringSplitOptions.None);
 
-            if (stringArray.Length > 1)
-            {
-                stringPortion = stringArray[1];
-            }
-            else
-            {
-                stringPortion = stringData;
-            }
+            stringPortion = stringArray.Length > 1 ? stringArray[1] : stringData;
 
             int start = Math.Max(stringPortion.IndexOf(delimiterStart), 0);
             int end = stringPortion.LastIndexOf(delimiterEnd);
@@ -456,6 +439,16 @@ namespace SetFormatterWebClient
             {
                 throw ex;
             }
+        }
+
+        public string CleanString(string stringIn)
+        {
+            string stringOut = stringIn;
+            stringOut = stringIn.Replace("\r\n", "");
+            stringOut = stringOut.Replace(" ", "");
+            stringOut = stringOut.ToLowerInvariant();
+
+            return stringOut;
         }
     }
 }

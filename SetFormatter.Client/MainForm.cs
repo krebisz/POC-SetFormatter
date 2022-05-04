@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading;
 using System.Windows.Forms;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     public partial class MainForm : Form
     {

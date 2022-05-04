@@ -2,9 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
-    public class Element : IEnumerable
+    public class Element
     {
         public Element(string name, int level)
         {
@@ -20,29 +20,9 @@ namespace SetFormatterWebClient
             Parent = parent;
         }
 
-        private List<Element> Elements = new List<Element>();
-
         public int Id { get; set; }
         public String Name { get; set; }
         public int Level { get; set; }
         public int Parent { get; set; }
-
-        public IEnumerator GetEnumerator()
-        {
-            foreach (object o in Elements)
-            {
-                if (o == null)
-                {
-                    break;
-                }
-
-                yield return o;
-            }
-        }
-
-        public void Add(Element element)
-        {
-            Elements.Add(element);
-        }
     }
 }

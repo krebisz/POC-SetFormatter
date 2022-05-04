@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace SetFormatterWebClient
+namespace SetFormatter
 {
     internal static class Program
     {
